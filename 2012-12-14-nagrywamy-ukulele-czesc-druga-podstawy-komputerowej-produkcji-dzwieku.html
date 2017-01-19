@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml"
+lang="pl">
+<head>
+    <!-- Meta -->
+	<meta property="fb:app_id" content="507581412661825" />
+	<meta property="fb:admins" content="1755679711"/>
+	<meta property="og:title" content="Nagrywamy ukulele: Podstawy komputerowej produkcji dźwięku"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="http://polish-ukulele.pl/2012-12-14-nagrywamy-ukulele-czesc-druga-podstawy-komputerowej-produkcji-dzwieku"/>
+	<meta property="og:description" content="W drugim odcinku cyklu o nagrywaniu dowiemy się, co może zrobić dla nas software, gdy surowy materiał nas nie satysfakcjonuje"/>
+	<meta property="og:image" content="http://www.polish-ukulele.pl/images/140/nagrywamy140.jpg"/>
+
+    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+         More info: h5bp.com/i/378 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Our site title and description -->
+    <title>Nagrywamy ukulele: Podstawy komputerowej produkcji dźwięku | Poliż Ukulele!</title>
+    <meta name="description" content="W drugim odcinku cyklu o nagrywaniu dowiemy się, co może zrobić dla nas software, gdy surowy materiał nas nie satysfakcjonuje" />
+    <meta name="keywords" content="ukulele, ukelele" />
+    <meta name="author" content="Grzegorz Stefanek" />
+
+    <!-- Output DocPad produced meta elements -->
+    <meta name="generator" content="DocPad v6.79.0" />
+
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script>
+
+    <!-- Mobile viewport optimized: h5bp.com/viewport -->
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Icons -->
+        <link rel="shortcut icon" href="images/icons/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+
+    <!-- Shims: IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/styles/twitter-bootstrap.css" /><link  rel="stylesheet" href="/styles/style.css" />
+
+<style>
+body {
+    background: url('/images/tlonew.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-photo1 {
+    background: url('/images/uku2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+
+.jumbotron-transparent {
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#110022;
+  color:#eee;
+  overflow:hidden;
+}
+
+.bg-light {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+    
+.bg-1 {
+    background: url('/images/uku3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}    
+.rounded-corner {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+}
+
+.white
+{
+	color: white !important;
+}
+
+.center-y{
+	display: inline-block;
+    vertical-align: middle;
+	}
+    </style>
+
+    
+</head>
+<body>
+    <!-- Menu -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/"> <img src="/images/icons/uke-icon.gif" height = 20>Polish Ukulele</a>
+            </div>
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/festiwal"
+                            class=""
+                        >
+                            <a href="/festiwal" property="dc:title">
+                                Polish Ukulele Festiwal 2017
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/dlaczego"
+                            class=""
+                        >
+                            <a href="/dlaczego" property="dc:title">
+                                Dlaczego ukulele
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/nauka-gry"
+                            class=""
+                        >
+                            <a href="/nauka-gry" property="dc:title">
+                                Nauka gry
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/artykuly"
+                            class=""
+                        >
+                            <a href="/artykuly" property="dc:title">
+                                Artykuły
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/FAQ"
+                            class=""
+                        >
+                            <a href="/FAQ" property="dc:title">
+                                FAQ
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/wywiady"
+                            class=""
+                        >
+                            <a href="/wywiady" property="dc:title">
+                                Wywiady
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/spolecznosc"
+                            class=""
+                        >
+                            <a href="/spolecznosc" property="dc:title">
+                                O nas
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </div>
+
+
+    
+    <!-- Content -->
+    <div class="container">
+        <!-- Content -->
+        <section id="content" class="content">
+            <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&appId=507581412661825&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="container-fluid jumbotron-transparent rounded-corner">
+<article id="post" class="post">
+	<h1>Nagrywamy ukulele: Podstawy komputerowej produkcji dźwięku</h1>
+	<div class="fb-like" data-href="http://polish-ukulele.pl/2012-12-14-nagrywamy-ukulele-czesc-druga-podstawy-komputerowej-produkcji-dzwieku" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+		<div class="post-date"> Grzesiek Stefanek | piątek, 14.12.2012
+			</div>
+	<p></p>
+	<div class="post-content"><p><strong>Przychodzi taki moment, kiedy nagrywając ukulelowy filmik krzywimy się z niesmakiem. Dźwięk jakby nagrywany w kartonie, szumy, trzaski, śpiew zagłusza ukulele lub odwrotnie, a i kilka razy ręka omsknęła się na niewłaściwą strunę. Zakładając, że mamy niezbędne minimum sprzętowe do nagrywania z jako-taką jakością, większość powyższych niedostatków można zniwelować</strong>, <strong>ucząc się podstawowej obsługi oprogramowania audio.
+</strong></p>
+<p>Od razu zastrzegę, że producenta dźwięku w weekend z was nie zrobię (z siebie też), ale i nie o to przecież nam chodzi. Założenie jest takie, żeby po pierwsze maksymalnie ułatwić sobie życie przy nagrywaniu, po drugie zaś doprowadzić je do przyzwoitej, choć wciąż amatorskiej jakości, pozbawionej wyraźnie słyszalnych problemów. To wszystko osiągniemy bez kłopotu, zapoznając się z podstawami.</p>
+<p><strong>Wybieramy DAW, czyli  od przybytku głowa nie boli...</strong></p>
+<p>...ale trochę czasu można stracić, wybierając właściwe oprogramowanie. Rodzaj softu, o jaki nam chodzi, określa się najczęściej skrótem DAW - Digital Audio Workstation. Czytając w sieci teksty na temat produkcji dźwięku natkniecie się na takie nazwy jak Sonar, Pro Tools, Cubase czy Reason. O tych zapomnijcie od razu, choćby nie wiem ilu domorosłych producentów przekonywało was, że bez tego ani rusz - to są narzędzia dla profesjonalistów. Doskonałe z pewnością, ale wydanie na nie kilkaset euro mija się z celem. Dodam, że spiracenie ich również - po cholerę nam software, z którego 80% możliwości nie skorzystamy, już nawet mniejsza z tym, że nielegalny?  Są na szczęście darmowe alternatywy, niektóre niewiele ustępujące profesjonalnym, a z pewnością wystarczające na nasze potrzeby.</p>
+<p>Prawdopodobnie najpopularniejszym programem jest Audacity. Nie ma szczególnie rozbudowanych możliwości, ale jest za darmo, jest wolnym oprogramowaniem (Open Source), jest dostępny na wszystkie główne platformy. Dodatkowo ma bardzo prostą obsługę, więc prawdopodobnie będzie najlepszym wyborem. Co oprócz tego? Profesjonalny kombajn Sony, Acid Pro, posiada darmową wersję Acid Xpress. Kolejne alternatywy ze świata Wolnego Oprogramowania - Traverso, Linux Multimedia Studio (wbrew nazwie działa również pod Windows). Jeżeli mamy komputer od Apple, dobrym  wyborym jest świetny Garage Band. Pod Linuksem natomiast mamy być może najpotężniejszą z darmowych alternatyw - Ardour.  Można by jeszcze kilka wymienić, ale prawda jest taka - nie będziemy używali zaawansowanych bajerów, a podstawowe zadania wszystkie programy powinny wykonywać nieźle, więc nie ma to większego znaczenia.</p>
+<p>Czyli który wybrać? Krótka odpowiedź - Audacity pod Windows i Linuksem, Garage Band na makach, ewentualnie Ardour, jeśli chcemy poświęcić czas na naukę obsługi czegoś poważniejszego.  Jest też spora szansa, że jeśli kupiliśmy sprzęt do nagrywania (interfejs, mikrofon USB), to dostaliśmy jakieś oprogramowanie w zestawie (często nieco okrojoną wersję któregoś z profesjonalnych kombajnów) - wtedy nic nie stoi na przeszkodzie, żeby skorzystać właśnie z niego.</p>
+<p><strong>Pierwsza radocha - nagrywamy na wielu ścieżkach</strong></p>
+<p>Najprostsza i oczywista zaleta naszego nowego softu - nagrywamy ścieżkę z chwytami, w kolejnym podejściu wokal, solówki i co tam jeszcze nam w duszy gra, choćby bębnienie w stół do rytmu. Fajne, daje natychmiastowy efekt... i zmusza do zauważenia pierwszych pułapek.</p>
+<p>Po pierwsze - latencja audio. Mówiąc prosto - przetwarzanie i odtwarzanie dźwięku zajmuje komputerowi  nieco czasu. W zależności od naszego procesora, karty dźwiękowej, sterowników, szybkości twardego dysku  i parunastu innych czynników, może to być niezauważalne kilka milisekund, ale może być i tak, że nasze ścieżki po nagraniu rozjadą się o pół sekundy. Katastrofa? Niekoniecznie. Jeśli to się zdarzy, po prostu trzeba przesunąć nagraną ścieżkę o kawałeczek do tyłu, synchronizując ją &quot;na słuch&quot;. Jak już ustalimy, jakiej latencji spodziewać się w naszym systemie, można w Audacity ustawić automatyczną korekcję. Problem jest również w tym, że przy dużej latencji niemożliwy staje się odsłuch na żywo tego, co nagrywamy. A że na uszach mamy słuchawki z poprzednimi ścieżkami, to dość upierdliwie utrudnia to grę.</p>
+<p>Jeśli bardzo nam to przeszkadza, to pierwszym podejrzanym będą sterowniki dźwięku, jak również niestety jakość samej karty dźwiękowej. Drugim ogólna wydajność komputera, wyłączenie niepotrzebnych usług może tu trochę pomóc.  Sporo grzebania i kombinowania może nieco poprawić sytuację, ale koniec końców być może nie ominie nas inwestycja w sprzęt.</p>
+<p>Po drugie - oprócz przesunięcia całości ścieżki o latencję trzeba dbać o właściwy &quot;timing&quot; samego nagrania. Czyli aby żadna nutka nie wypadała za wcześnie lub za późno. Jeśli gracie bez problemu na żywo w towarzystwie innych, to możecie się spodziewać, że to proste. Nic podobnego - zdziwicie się, jak nagranie które wydaje się świetnie brzmieć na żywo, rozjeżdża się po spokojnym odsłuchu. To zwyczajnie niełatwe i wymaga nieco treningu. W pewnym stopniu można to wyedytować podczas późniejszej obróbki, ale zdecydowanie lepiej chyba nauczyć się grać od razu dobrze. No i ważna uwaga - zaprzyjaźnijcie się metronomem. Może być wbudowany w soft, może być zewnętrzny, ale naprawdę pomaga nagrywanie z jego pomocą.</p>
+<p>Po trzecie - poziom sygnału. W programie widzimy graficzny obraz nagranego dźwięku - jeśli dotyka on &quot;do sufitu&quot; i tam się spłaszcza, nagranie będzie bezpowrotnie zniekształcone. Nagrywamy ponownie, zmniejszając głośność wejścia mikrofonu. Zbyt cicho też nie dobrze, można oczywiście wzmocnić, ale wtedy podbijemy też szumy. Więc z dwojga złego, lepiej za cicho, niż za głośno - odszumić w ostateczności również można, ale zbyt głośnego nagrania już nie naprawimy.</p>
+<p>Po czwarte - jeśli nagrywacie ścieżkę &quot;po kawałku&quot;, to zapamiętajcie dokładnie wszystkie ustawienia, co do każdego szczegółu - poziom głośności, odległość od mikrofonu, nawet rodzaj kostki do gry. Każda zmiana spowoduje wyraźną zmianę barwy dźwięku, i od razu wylezie, że nagrywaliśmy na raty.</p>
+<p>Uwaga na marginesie - domyślnym rodzajem śladu w większości edytorów jest ścieżka stereo. Dla naszych zastosowań, to najczęściej zupełnie bez sensu. Stereo to nie jakiś magiczny sposób na zwiększenie jakości, to po prostu różnica między tym, co leci na prawym i lewym kanale. Prawidłowo zrealizowane pozwala na umiejscowienie instrumentów w przestrzeni, ale usadzanie głosu ukulelisty o pół wirtualnego metra w lewo od jego ukulele to raczej nieporozumienie. A już zupełnie bez sensu jest nagrywanie w stereo wokalu - mikrofon jest najczęściej jeden i w stereo nie nagrywa, nagranie go na ścieżce stereo po prostu zdubluje zapis bez żadnego efektu. A nagrywanie na kilku mikrofonach i rozmieszczanie instrumentów na wirtualnej scenie to już raczej temat nie dla nas.</p>
+<p><strong>Wyrzucamy śmieci - podstawowa edycja</strong></p>
+<p>Świeżo nagrana ścieżka zawiera na pewno sporo niedoskonałości. Od razu usuwamy dziwne dźwięki z rozbiegówki i z końca nagrania. Jeżeli ścieżka zawiera puste miejsca, bo na przykład dogrywaliśmy tylko powtarzaną kilkakrotnie przygrywkę przed każdym refrenem, to wszystkie chwile ciszy wyciszamy w edytorze &quot;do zera&quot;, bo po co kumulować szumy, nagrane przypadkiem odgłosy pokoju i podobne dźwięki. Takie pocięte na kawałki nagranie możemy też poprzestawiać w czasie, zwłaszcza, jeśli mieliśmy jakieś błędy ze spóźnionymi dźwiękami do poprawienia.</p>
+<p>Ale tutaj zwróćcie uwagę na dwa problemy. Po pierwsze, jeśli nagraliśmy całą ścieżkę z dość wysokim poziomem szumów, jak to zwykle na amatorskim sprzęcie bywa, to jego nagłe ucięcie zabrzmi bardzo nienaturalnie, więc jeśli rzeczywiście w utworze jest tam cisza, to należałoby raczej szum zostawić. Jeśli mieliśmy zamiar tam dograć coś innego, to w porządku, ale zupełnej ciszy w utworze raczej nie zostawiajmy. Druga sprawa to odpowiednie łączenie dwóch pociętych fragmentów - najlepiej zrobić je &quot;na zakładkę&quot; i tzw. cross-fade&#39;m - jeden fragment się ścisza, drugi w tym czasie robi się głośniejszy i dzięki temu zlewają się bez zauważalnego przejścia. Jeśli o to nie zadbamy, to przejścia będą brzmiały bardzo nienaturalnie.</p>
+<p>Odszumianie sygnału jest możliwe odpowiednią wtyczką. Wtyczka potrzebuje porównania próbki czystego szumu z nagranym sygnałem, więc z tego powodu kawałek szumiącej ciszy należy zostawić. Odszumianie nie jest niestety bez wpływu na jakość sygnału, więc ustawieniami wtyczki trzeba się trochę pobawić - trochę za mało i nie będzie efektu, trochę za dużo i dźwięk będzie wyraźnie nienaturalny.</p>
+<p><strong>Zarządzanie zegarem</strong></p>
+<p>Jak pewnie zauważyliście, nad ścieżkami mamy oznaczenie czasu. Możemy pracować na sekundach i w zasadzie się nim nie przejmować. Ale łatwiej się planuje utwór &quot;po muzycznemu&quot;, rozpisując go na takty. Jest to zupełnie intuicyjne, nawet dla zupełnych laików z teorii muzyki.</p>
+<p>Łatwo można ustawić w edytorze, aby zamiast sekund wyświetlały nam się oznaczenia w bpm - uderzeniach na minutę. Wraz z ustawieniem właściwego tempa i metrum, np. 4/4, od razu ustawi nam się siatka z podziałem na takty. Do takiej siatki łatwo potem dopasować fragmenty dźwięku, aby wybrzmiewały we właściwym czasie. Ale coś za coś - wymaga to dyscypliny w nagrywaniu. Używamy więc metronomu, planując sobie uprzednio tempo utworu i ustawiając takie samo w edytorze. Problem będziemy mieli wtedy, jeśli dłuższy kawałek dźwięku nam się rozjechał, bo w trakcie gry zwolniliśmy lub przyspieszyliśmy. Można oczywiście nagrać od nowa, ale jeśli nie chcemy, to co lepsze oprogramowanie potrafi nieznacznie skrócić lub wydłużyć fragment dźwięku bez zmiany jego brzmienia. Na upartego moglibyśmy całą piosenkę w ten sposób nagrać i prezycyjnie dopasować długość wybrzmiewania każdej nuty. Ale bez przesady - bawimy się w nagrywanie muzyki na żywo, a nie w produkcję muzyki na komputerze z pojedynczych, króciutkich sampli. Poratujmy się więc tym w razie potrzeby, ale bez nadużywania. Zwłaszcza, że za tym narzędziem stoi skomplikowana matematyka, która nie do końca ze wszystkim sobie radzi, i możemy uzyskać nienaturalne brzmienie lub niechciane dźwiękowe artefakty.</p>
+<p><strong>Wtyczki i efekty</strong></p>
+<p>Słowo ostrzeżenia na początek. Bawiąc się wtyczkami wchodzimy w obszar, którego poznanie profesjonalistom zajmuje lata. Nie da się ukryć, że będzie to w dużym stopniu działanie po omacku. Więc zastanówcie się, czy w ogóle warto. Pamiętajcie - w razie wątpliwości, lepiej nie ruszać, niż zmienić źle lub za bardzo. No i ważna uwaga techniczna - jeśli wtyczka nie jest nakładana w czasie rzeczywistym podczas odtwarzania, tylko zmienia sam plik dźwiękowy, to zawsze trzeba zapisać wcześniej nietknięty oryginał.</p>
+<p>Najczęściej używanym (i nadużywanym) efektem jest reverb (pogłos), czyli symulujący granie w pomieszczeniu z większym lub mniejszym echem. W Audacity znajdziemy go pod nazwą gverb (lub nie znajdziemy, bo technicznie wtyczki są zewnętrznym wobec DAWa oprogramowaniem i nasz zestaw może być zupełnie inny, ale  na pewno jakiś pogłos się w nim znajdzie). Domyślne ustawienia są raczej absurdalne,  zajrzyjmy na stronę Gverb w zakładkę &quot;instant settings&quot; - ustawienie &quot;quick fix&quot; będzie dobrym punktem wyjścia. A potem czeka was dużo zabawy suwakami, aż nauczycie się mniej więcej, który z nich za jaką zmianę brzmienia odpowiada.</p>
+<p>Reverb jest tak często nadużywany w amatorskich nagraniach, gdyż niemal każdy bardzo się cieszy usłyszawszy swój głos czy instrument z dodanym pogłosem, wydaje się brzmieć od razu lepiej. Tym niemniej, używajmy go z głową. Jeśli nagrywamy w sporym pomieszczeniu, możemy mieć pogłos &quot;naturalny&quot; i nie wymagać nic więcej. Również na wokalu nie należy przesadzać, mimo że wydaje się to brzmieć atrakcyjnie. Przesadzone brzmi po prostu głupio. Za to rzeczywiście akurat ukulele, jako instrument niewielki i o krótkim czasie wybrzmiewania, z dodania pogłosu często bardzo korzysta.</p>
+<p>Od razu zaprzyjaźnijcie się też z filtrami. To urządzenie o subtelności młotka, po prostu odcina wszystkie częstotliwości powyżej lub poniżej pewnej granicy (filtr dolno- lub górnoprzepustowy, high-pass / low-pass filter). Jako że większość ścieżek ma dość ograniczony zakres częstotliwości z właściwym sygnałem, zwykle warto odciąć zupełnie górę lub dół, eliminując odpowiednio niechciane dudnienia, pogłosy i inne śmieci, lub z drugiej strony trzaski, piski i tym podobne niechciane dźwięki. Punkt odcięcia regulujemy &quot;na słuch&quot;, ale to akurat trudne nie jest - działamy tak długo, aż zacznie to wpływać negatywnie na brzmienie instrumentu.  Filtr na &quot;dół&quot; można stosować prawie wszędzie (chyba że nagrywacie ścieżkę basową), z górnym już trzeba ostrożniej.</p>
+<p>Wyższą szkołą jazdy jest użycie korektora (equalizer), który selektywnie podbija lub obniża konkretne częstotliwości. Dobry producent zdziała korektorem cuda, eliminując w wąskim paśmie konkretne, niechciane efekty dźwiękowe. My sobie raczej z tym nie poradzimy, ale warto dla uke zwykle podbić nieco &quot;górę&quot; i trochę średnicę. Inne ścieżki również można po pewnym czasie eksperymentowania poprawić w ten sposób, choć prostego przepisu nie ma.  Profesjonaliści mają to we krwi, my możemy eksperymentować,  najczęściej wychodząc od jakiegoś presetu ustawień. Ponownie więc, kombinujcie, ale z umiarem.</p>
+<p>Uwaga na marginesie - przy zabawie korektorem bardzo ważna jest jakość odsłuchu. Jeśli robimy to na słuchawkach, mających zwykle niedostatek basu, to przygotowana tak ścieżka odsłuchana na subwooferze zmiecie słuchacza z krzesła. Raczej ukiści nie inwestują w profesjonalne monitory - studyjne głośniki o bardzo płaskiej charakterystyce, mające nie upiększać, lecz wiernie oddawać dźwięk. Radzimy sobie więc, słuchając i porównując brzmienie naszej ścieżki na wielu różnych urządzeniach. Jeśli to będą głośniki z zestawu stereo, to zawsze zadbajcie, by wyłączyć wszystkie sprzętowe ingerencje w dźwięk, choćby właśnie istniejący na większości wzmacniaczy korektor, podbicie basów, kontur i inne podobne. Odsłuch musi być możliwie neutralny.</p>
+<p>Ostatnim z podstawowego zestawu narzędzi jest kompresor. Nagrania akustycznych instrumentów mają bardzo dużą dynamikę. Trywializując, niektóre nutki są znacznie głośniejsze od innych. Kompresor potrafi to wygładzić, podbijając ciche partie i przyciszając zbyt głośne. Znacznie ułatwia to odbiór całości, zwłaszcza na słabszym sprzęcie, lub na przykład w zatłoczonym autobusie przez słuchawki Ipoda. Ale uwaga - dynamika to nie jest zjawisko niechciane, to również środek wyrazu muzyka. Nadużywając kompresji wypłaszczycie nagranie zupełnie, aż będzie brzmiało nudno (bardzo częsta przypadłość we współcześnie produkowanej muzyce!).  Tym niemniej, przy amatorskim graniu na uke niezamierzone zmiany głośności są częste - jakąś strunę szarpniemy mocniej, zahaczymy paznokciem zamiast opuszki palca, i nutka wystrzeli nam w słuchawkach jak karabin. Kompresor pomoże pozbyć się takich niespodzianek. Warto używać go na ścieżkach uke i wokalu. Jak zwykle z wtyczkami, dokładne ustawienie parametrów wymaga słuchu i doświadczenia, a w naszym przypadku żmudnego eksperymentowania. Eksperymentujcie tutaj dużo, bo efekty są warte zainwestowanego czasu.</p>
+<p><strong>Co zrobić, jak nie umiemy grać</strong></p>
+<p>Nauczyć się... najłatwiejsza i najprzyjemniejsza jest produkcja dźwięku od dobrego muzyka. Ale my wszyscy amatorzy, więc błędy się zdarzają. Naprawdę zachęcam do przećwiczenia nagrywanej partii tak długo, aż da się zagrać bez błędów, ale jeśli w pięciominutowej aranżacji rąbniecie się pod koniec o jedną nutkę, to edytor może nam pomóc.</p>
+<p>Mamy więc narzędzia edycyjne - powiększamy falę na cały ekran, wycinamy precyzyjnie źle zagrany dźwięk, nagrywamy poprawny, wklejamy. Pamiętać o właściwym łączeniu dźwięków, żeby przejście nie było wyraźne. Trzeba będzie dostosować głośność i barwę, jeśli nagraliśmy w nieco innych ustawieniach mikrofonu, to różnica będzie słyszalna, ale trochę zabawy korektorem i da się to elegancko zamaskować. Voila -błąd poprawiony.</p>
+<p>Można podejść do tego inaczej - znajdziemy we wtyczkach tzw. pitch shifter, czyli transpozycję dźwięku w górę lub w dół. Jeśli grając solówkę trafiliśmy jedną nutkę o jeden próg za daleko, to można ją w edytorze usadzić z powrotem na właściwym dźwięku. Dużych błędów w ten sposób nie poprawimy, im większe zmiany, tym wyraźniej słyszalny jest wpływ tej operacji na dźwięk. Ale do drobiazgów może się przydać.</p>
+<p>O zabawie czasem już wspominałem - nutkę zagraną za wcześnie lub za późno poprawić łatwo - wyciąć, przesunąć i już. Można też całe fragmenty subtelnie przedłużać lub skracać, jeśli zagraliśmy je w niewłaściwym tempie. Znów, im większa różnica, tym większa szansa, że słyszalny będzie nienaturalny efekt tej operacji, ale do drobnych poprawek jak najbardziej się to nadaje.</p>
+<p>Znów na koniec uwaga - można prawie wszystko, ale czy warto? Edycja tego typu jest pracochłonna i upierdliwa. Być może warto poświęcić ten czas na nagranie partii jeszcze raz, bez niedociągnięć.</p>
+<p>Ekstremalnym przykładem poprawek, niestety w powszechnym użyciu jest wtyczka auto-tune, używana przez wokalistów. W czasie rzeczywistym poprawia ona wszelkie fałsze, dociągając dźwięk do najbliższego czystego półtonu. Przerazilibyście się, jak fatalnie wielu popowych wokalistów brzmiałoby bez użycia tego udogodnienia.</p>
+<p><strong>Po co to wszystko?</strong></p>
+<p>Powyższy tekst nie aspiruje do bycia w jakikolwiek sposób wyczerpującym, to raczej wskazanie możliwości dla tych, którzy nigdy produkcją dźwięku się nie interesowali i nawet nie wiedzą, jakie zabawki są w zasięgu jednego kliknięcia. Możliwe, że wcale nie chcecie się w to bawić - spoko. Nagrania ukulelistów nie muszą przecież brzmieć jak dzieło profesjonalisty, nie o to w tej zabawie chodzi. Bardzo podstawową edycję zawsze warto opanować, ale reszta jest absolutnie niekonieczna. Gdyby jednak wciągnął was temat, to zachęcam do pogłębiania wiedzy. Już raczej nie ode mnie ani nawet od innych ukistów, bo profesjonalistów w naszym gronie raczej nie znajdziecie.</p>
+</div>
+</article>
+
+
+   <div class="row">&nbsp</div>
+   <div class="row text-center">Chcesz podyskutować? Możesz i tutaj, ale większość rozmów prowadzimy w <a href="https://www.facebook.com/groups/polish.ukulele/">grupie Polish Ukulele na FB</a></div>
+
+<div class="fb-comments" data-width=100% data-href="http://polish-ukulele.pl/2012-12-14-nagrywamy-ukulele-czesc-druga-podstawy-komputerowej-produkcji-dzwieku" data-numposts="5" data-colorscheme="light"></div>
+
+<footer>
+	<div class="row">
+		<div class="col-md-6 text-left">
+			<h2>Podobne teksty</h2>
+			<nav class="linklist">
+				
+					<li>
+					&raquo;
+				<a href="/2012-03-19-nagrywamy-ukulele-1-podstawy">Nagrywamy ukulele: Podstawy</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2013-02-06-nagrywamy-ukulele-3-jak-nagrywac-parami-i-stadami">Jak nagrywać parami i stadami</a></li>
+				
+			</nav>
+		</div>
+		<div class="col-md-6 text-right">
+		<h2>Polecane teksty</h2>
+			<nav class="linklist">
+				
+					<li>
+					&raquo;
+				<a href="/2015-06-30-Nauka-gry">Pierwsze kroki na ukulele</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-23-jak-dbac-o-ukulele-zima">Jak dbać o ukulele zimą</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a></li>
+				
+			</nav>
+		</div>
+	</div>
+<div class="row">&nbsp;</div>
+</footer>
+</div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p class="pull-left">&copy; Grupa Trzymająca Ukulele 2017 | Projekt &copy Grzesiek Stefanek 2014</p>
+            <p class="pull-right">
+                Ostatnia aktualizacja: czwartek, 19.01.2017
+            </p>
+
+        </footer>
+    </div><!-- /container -->
+
+    <!-- Scripts -->
+    <script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><script defer="defer"  src="/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
+</html>

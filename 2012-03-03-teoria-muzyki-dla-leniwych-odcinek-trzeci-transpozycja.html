@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml"
+lang="pl">
+<head>
+    <!-- Meta -->
+	<meta property="fb:app_id" content="507581412661825" />
+	<meta property="fb:admins" content="1755679711"/>
+	<meta property="og:title" content="Teoria muzyki dla leniwych: Transpozycja"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="http://polish-ukulele.pl/2012-03-03-teoria-muzyki-dla-leniwych-odcinek-trzeci-transpozycja"/>
+	<meta property="og:description" content="Zapoznaliśmy się z pojęciem tonacji utworu, czas nauczyć się więc, jak je wykorzystać w praktyce"/>
+	<meta property="og:image" content="http://www.polish-ukulele.pl/images/140/"/>
+
+    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+         More info: h5bp.com/i/378 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Our site title and description -->
+    <title>Teoria muzyki dla leniwych: Transpozycja | Poliż Ukulele!</title>
+    <meta name="description" content="Zapoznaliśmy się z pojęciem tonacji utworu, czas nauczyć się więc, jak je wykorzystać w praktyce" />
+    <meta name="keywords" content="ukulele, ukelele" />
+    <meta name="author" content="Grzegorz Stefanek" />
+
+    <!-- Output DocPad produced meta elements -->
+    <meta name="generator" content="DocPad v6.79.0" />
+
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script>
+
+    <!-- Mobile viewport optimized: h5bp.com/viewport -->
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Icons -->
+        <link rel="shortcut icon" href="images/icons/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+
+    <!-- Shims: IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/styles/twitter-bootstrap.css" /><link  rel="stylesheet" href="/styles/style.css" />
+
+<style>
+body {
+    background: url('/images/tlonew.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-photo1 {
+    background: url('/images/uku2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+
+.jumbotron-transparent {
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#110022;
+  color:#eee;
+  overflow:hidden;
+}
+
+.bg-light {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+    
+.bg-1 {
+    background: url('/images/uku3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}    
+.rounded-corner {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+}
+
+.white
+{
+	color: white !important;
+}
+
+.center-y{
+	display: inline-block;
+    vertical-align: middle;
+	}
+    </style>
+
+    
+</head>
+<body>
+    <!-- Menu -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/"> <img src="/images/icons/uke-icon.gif" height = 20>Polish Ukulele</a>
+            </div>
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/festiwal"
+                            class=""
+                        >
+                            <a href="/festiwal" property="dc:title">
+                                Polish Ukulele Festiwal 2017
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/dlaczego"
+                            class=""
+                        >
+                            <a href="/dlaczego" property="dc:title">
+                                Dlaczego ukulele
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/nauka-gry"
+                            class=""
+                        >
+                            <a href="/nauka-gry" property="dc:title">
+                                Nauka gry
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/artykuly"
+                            class=""
+                        >
+                            <a href="/artykuly" property="dc:title">
+                                Artykuły
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/FAQ"
+                            class=""
+                        >
+                            <a href="/FAQ" property="dc:title">
+                                FAQ
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/wywiady"
+                            class=""
+                        >
+                            <a href="/wywiady" property="dc:title">
+                                Wywiady
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/spolecznosc"
+                            class=""
+                        >
+                            <a href="/spolecznosc" property="dc:title">
+                                O nas
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </div>
+
+
+    
+    <!-- Content -->
+    <div class="container">
+        <!-- Content -->
+        <section id="content" class="content">
+            <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&appId=507581412661825&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="container-fluid jumbotron-transparent rounded-corner">
+<article id="post" class="post">
+	<h1>Teoria muzyki dla leniwych: Transpozycja</h1>
+	<div class="fb-like" data-href="http://polish-ukulele.pl/2012-03-03-teoria-muzyki-dla-leniwych-odcinek-trzeci-transpozycja" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+		<div class="post-date"> Howling Hobbit, tłumaczenie i uzupełnienia Grzesiek Stefanek | sobota, 18.02.2012
+			</div>
+	<p></p>
+	<div class="post-content"><p class = "lead">W kolejnym spotkaniu z teorią wreszcie używamy nabytej wiedzy do całkiem praktycznych zastosowań.</p>
+
+<p>Co to jest transpozycja? O dziwno, sporo nieporozumień narosło wokół tego terminu. A mówiąc prosto: transpozycja to zmiana tonacji piosenki. Tyle. Głównym celem jest znalezienie takiej tonacji , w której wokaliście wygodnie się śpiewa. Czasem może być też łatwiejsza do zagrania na wybranym instrumencie. Możemy być też zmuszeni do transpozycji, jeśli zwyczajnie skończy nam się skala dostępnych dźwięków - na ukulele często niestety to się zdarza.</p>
+<p>Rozwiewając pokutującą często wśród początkujących ukulelistów opinię: nie musisz transponować, jeśli znalazłeś chwyty dla gitary i chcesz zagrać na ukulele. Nazwy chwytów pozostają takie same, choć oczywiście na gitarze chwyta się je inaczej.</p>
+<p><small>
+<em>(Przypis tłumacza: Ale możesz, choć z innego powodu. Tak się składa, że kształt ułożenia palców na strunach gitary będzie pasował do ukulele, jeśli pominiesz nieistnienie dwóch basowych strun. Struny ukulele grają wyżej, dokładnie o dwa i pół tonu. Więc grając na uke tak, jak się nauczyłeś na gitarze transponujesz utwór o dwa i pół tonu do góry, ale zachowujesz wyuczone wcześniej ruchy palców)</em>
+</small></p>
+<p><strong>Ok, czyli jak to zrobić?</strong></p>
+<p>Przesuwamy wszystkie nuty o stałą liczbę półtonów w górę lub w dół. Zarówno pojedyncze dźwięki, jeśli mówimy o melodii, jak i całe akordy w przypadku akompaniamentu.</p>
+<p>Prosty przykład. Bluesowy utwór w tonacji C, który chcemy transponować do G.  Większość bluesów zawieta trzy akordy: pierwszy, czwarty i piąty z wybranej tonacji (mówiłem, że numerki się przydadzą!).  Patrzymy na skalę C – będą to akordy C, F i G7.</p>
+<p>Dlaczego G7? Często w bluesie używa się akordów septymowych, np. G7. Więc wprowadźmy od razu i to pojęcie, tylko po to, aby pokazać, że nie mają one znaczenia przy transpozycji. (zaznaczmy, że G7 to akord C z dodaną septymą, nie ma on nic wspólnego z siódmym akordem skali G). Transponujemy tak, jakby to było zwykłe G i do uzyskanego transponowanego akordu dodajemy znów septymę.</p>
+<p>Przypominam, po raz kolejny, skalę chromatyczną:</p>
+<table class = "table" >
+<tbody >
+<tr >
+
+<td width="51" valign="top" >1
+</td>
+
+<td width="51" valign="top" >2
+</td>
+
+<td width="51" valign="top" >3
+</td>
+
+<td width="51" valign="top" >4
+</td>
+
+<td width="51" valign="top" >5
+</td>
+
+<td width="51" valign="top" >6
+</td>
+
+<td width="51" valign="top" >7
+</td>
+
+<td width="51" valign="top" >8
+</td>
+
+<td width="51" valign="top" >9
+</td>
+
+<td width="51" valign="top" >10
+</td>
+
+<td width="51" valign="top" >11
+</td>
+
+<td width="51" valign="top" >12
+</td>
+</tr>
+<tr >
+
+<td width="51" valign="top" >A
+</td>
+
+<td width="51" valign="top" >A# /Bb
+</td>
+
+<td width="51" valign="top" >B
+</td>
+
+<td width="51" valign="top" >C
+</td>
+
+<td width="51" valign="top" >C# /Db
+</td>
+
+<td width="51" valign="top" >D
+</td>
+
+<td width="51" valign="top" >D# /Eb
+</td>
+
+<td width="51" valign="top" >E
+</td>
+
+<td width="51" valign="top" >F
+</td>
+
+<td width="51" valign="top" >F# /Gb
+</td>
+
+<td width="51" valign="top" >G
+</td>
+
+<td width="51" valign="top" >G# /Ab
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Siedem kroków, czyli siedem półtonów dzieli C od G. Naszym pierwszym akordem będzie G, więc pozostaje podnieść dwa pozostałe również o siedem półtonów. Otrzymujemy C i D7.</p>
+<p>A oto tabelka, która zbiera to wszystko do kupy. Nasze dwie skale  - C dur i G dur wyglądają tak:</p>
+<table class = "table" >
+<tbody >
+<tr >
+
+<td width="51" valign="top" >I
+</td>
+
+<td width="51" valign="top" >II
+</td>
+
+<td width="51" valign="top" >III
+</td>
+
+<td width="51" valign="top" >IV
+</td>
+
+<td width="51" valign="top" >V
+</td>
+
+<td width="51" valign="top" >VI
+</td>
+
+<td width="51" valign="top" >VII
+</td>
+</tr>
+<tr >
+
+<td width="51" valign="top" >C
+</td>
+
+<td width="51" valign="top" >D
+</td>
+
+<td width="51" valign="top" >E
+</td>
+
+<td width="51" valign="top" >F
+</td>
+
+<td width="51" valign="top" >G
+</td>
+
+<td width="51" valign="top" >A
+</td>
+
+<td width="51" valign="top" >B
+</td>
+</tr>
+<tr >
+
+<td width="51" valign="top" >G
+</td>
+
+<td width="51" valign="top" >A
+</td>
+
+<td width="51" valign="top" >B
+</td>
+
+<td width="51" valign="top" >C
+</td>
+
+<td width="51" valign="top" >D
+</td>
+
+<td width="51" valign="top" >E
+</td>
+
+<td width="51" valign="top" >F# / Gb
+</td>
+</tr>
+</tbody>
+</table>
+Używamy w naszym bluesie akordu I, IV i V. Jakie to będą akordy, zależy od wybranej tonacji. Wszelkie “dodatki” do nazwy akordu – dur/moll, septymy, nony itp pozostają bez zmian (ale oczywiście nie krzyżyki i bemole).
+
+Technicznie rzecz biorąc, zapisując w śpiewniku sekwencję akordów moglibyśmy używać cyfr, aby każdy grający mógłby sobie dobrać tonację, która mu odpowiada. A więc, na koniec, dla zupełnych leni, tabelka wszystkich dwunastu skal durowych, do błyskawicznej transpozycji wszystkiego w którąkolwiek z tonacji.
+
+
+<table class = "table" >
+<tbody >
+<tr class="toprow" >
+
+<td >Skala
+</td>
+
+<td >I
+</td>
+
+<td >II
+</td>
+
+<td >III
+</td>
+
+<td >IV
+</td>
+
+<td >V
+</td>
+
+<td >VI
+</td>
+
+<td >VII
+</td>
+
+<td >I
+</td>
+</tr>
+<tr >
+
+<td >A
+</td>
+
+<td >A
+</td>
+
+<td >B
+</td>
+
+<td >C♯
+</td>
+
+<td >D
+</td>
+
+<td >E
+</td>
+
+<td >F♯
+</td>
+
+<td >G♯
+</td>
+
+<td >A
+</td>
+</tr>
+<tr class="shaded" >
+
+<td >A# / B♭
+</td>
+
+<td >A# / B♭
+</td>
+
+<td >C
+</td>
+
+<td >D
+</td>
+
+<td >D# / E♭
+</td>
+
+<td >F
+</td>
+
+<td >G
+</td>
+
+<td >A
+</td>
+
+<td >A# / B♭
+</td>
+</tr>
+<tr >
+
+<td >B
+</td>
+
+<td >B
+</td>
+
+<td >C♯ / Db
+</td>
+
+<td >D♯ / Eb
+</td>
+
+<td >E
+</td>
+
+<td >F♯ / Gb
+</td>
+
+<td >G♯ / Ab
+</td>
+
+<td >A♯ / Bb
+</td>
+
+<td >B
+</td>
+</tr>
+<tr >
+
+<td >C
+</td>
+
+<td >C
+</td>
+
+<td >D
+</td>
+
+<td >E
+</td>
+
+<td >F
+</td>
+
+<td >G
+</td>
+
+<td >A
+</td>
+
+<td >B
+</td>
+
+<td >C
+</td>
+</tr>
+<tr class="shaded" >
+
+<td >C♯ / Db
+</td>
+
+<td >C♯ / Db
+</td>
+
+<td >D♯ / Eb
+</td>
+
+<td >F
+</td>
+
+<td >F♯ / Gb
+</td>
+
+<td >G♯ / Ab
+</td>
+
+<td >A♯ / Bb
+</td>
+
+<td >C
+</td>
+
+<td >C♯ / Db
+</td>
+</tr>
+<tr >
+
+<td >D
+</td>
+
+<td >D
+</td>
+
+<td >E
+</td>
+
+<td >F♯ / Gb
+</td>
+
+<td >G
+</td>
+
+<td >A
+</td>
+
+<td >B
+</td>
+
+<td >C♯ / Db
+</td>
+
+<td >D
+</td>
+</tr>
+<tr class="shaded" >
+
+<td >D♯ / Eb
+</td>
+
+<td >D♯ / Eb
+</td>
+
+<td >F
+</td>
+
+<td >G
+</td>
+
+<td >G♯ / Ab
+</td>
+
+<td >A♯ / Bb
+</td>
+
+<td >C
+</td>
+
+<td >D
+</td>
+
+<td >D♯ / Eb
+</td>
+</tr>
+<tr >
+
+<td >E
+</td>
+
+<td >E
+</td>
+
+<td >F♯ / Gb
+</td>
+
+<td >G♯ / Ab
+</td>
+
+<td >A
+</td>
+
+<td >B
+</td>
+
+<td >C♯ / Db
+</td>
+
+<td >D♯ / Eb
+</td>
+
+<td >E
+</td>
+</tr>
+<tr >
+
+<td >F
+</td>
+
+<td >F
+</td>
+
+<td >G
+</td>
+
+<td >A
+</td>
+
+<td >A♯ / Bb
+</td>
+
+<td >C
+</td>
+
+<td >D
+</td>
+
+<td >E
+</td>
+
+<td >F
+</td>
+</tr>
+<tr class="shaded" >
+
+<td >F♯ / Gb
+</td>
+
+<td >F♯ / Gb
+</td>
+
+<td >G♯ / Ab
+</td>
+
+<td >A♯ / Bb
+</td>
+
+<td >B
+</td>
+
+<td >C♯ / Db
+</td>
+
+<td >D♯ / Eb
+</td>
+
+<td >F
+</td>
+
+<td >F♯ / Gb
+</td>
+</tr>
+<tr >
+
+<td >G
+</td>
+
+<td >G
+</td>
+
+<td >A
+</td>
+
+<td >B
+</td>
+
+<td >C
+</td>
+
+<td >D
+</td>
+
+<td >E
+</td>
+
+<td >F♯ / Gb
+</td>
+
+<td >G
+</td>
+</tr>
+<tr class="shaded" >
+
+<td >G♯
+</td>
+
+<td >G♯ / Ab
+</td>
+
+<td >A♯ / Bb
+</td>
+
+<td >C
+</td>
+
+<td >C♯ / Db
+</td>
+
+<td >D♯ / Eb
+</td>
+
+<td >F
+</td>
+
+<td >G
+</td>
+
+<td >G♯ / Ab
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<p><strong>Dodatek - uzupełnienie dla praktyków</strong></p>
+<p>Dodam tutaj parę słów, których w oryginalnym tekście zabrakło, gdyż nie dotyczą w zasadzie teorii. Kiedy mówimy o transponowaniu akordu w górę lub w dół, możemy skorzystać z powyższych informacji - znaleźć nowy akord, zobaczyć w tabeli akordów, jak on wygląda, i grać. Ale przesunięcie akordu to w zasadzie po prostu przesunięcie wszystkich jego dźwięków, prawda? Więc transpozycja &quot;w górę&quot; może się sprowadzać do przesunięcia ręki po gryfie o odpowiednią liczbę prógów - półtonów</p>
+<p>Będzie tak w przypadku tych akordów, które nie zawierają pustej struny - wtedy po prostu łapiemy ten sam kształt niżej. Jeżeli pusta struna występuje, to w jej miejsce musimy jednak po transpozycji przycisnąć odpowiedni próg - traktujemy pustą strunę jako przyciśniętą na progu &quot;zerowym&quot;.</p>
+<p>Oczywiście najbanalniejszą metodą transpozycji w górę jest kapodaster. A w dół już prostych sposobów nie ma, bo miejsce na gryfie do obniżania dźwięków zwykle nam się kończy.</p>
+<p>Warto jeszcze zauważyć, że chociaż przesunięcie każdego dźwięku akordu dokładnie o tę samą liczbę półtonów da nam prawidłową transpozycję, to nie wszystkie akordy muszą się tego trzymać. Wynika to z faktu, że sposobów na budowę akordu jest zwykle kilka - dźwieki mogą być w różnej kolejności, niektóre z nich można powtórzyć, niektóre opuścić, a niektóre podnieść wyżej o całą oktawę. Więc nie dziwcie się, jeśli przy transpozycji wychodzi całkiem inny kształt, ufamy tutaj autorom tabel z chwytami, że wiedzą, co robią :)</p>
+<p>Dla zainteresowanych szczegółami - wszystko o budowie akordu wyjaśni się w następnym odcinku.</p>
+</div>
+</article>
+
+
+   <div class="row">&nbsp</div>
+   <div class="row text-center">Chcesz podyskutować? Możesz i tutaj, ale większość rozmów prowadzimy w <a href="https://www.facebook.com/groups/polish.ukulele/">grupie Polish Ukulele na FB</a></div>
+
+<div class="fb-comments" data-width=100% data-href="http://polish-ukulele.pl/2012-03-03-teoria-muzyki-dla-leniwych-odcinek-trzeci-transpozycja" data-numposts="5" data-colorscheme="light"></div>
+
+<footer>
+	<div class="row">
+		<div class="col-md-6 text-left">
+			<h2>Podobne teksty</h2>
+			<nav class="linklist">
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale">Teoria muzyki dla leniwych: Tonacje i skale</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-10-29-teoria-muzyki-dla-leniwych-odcinek-czwarty-budowa-akordu">Teoria muzyki dla leniwych: Budowa akordów</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-11-05-teoria-muzyki-dla-leniwych-uzupelnienie-1-automatyczna-budowa-akordow">Teoria muzyki dla leniwych: Suplement</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2013-09-13-mnemotechnika-na-najwazniejsze-skale-durowe">Mnemotechnika na najważniejsze skale durowe</a></li>
+				
+			</nav>
+		</div>
+		<div class="col-md-6 text-right">
+		<h2>Polecane teksty</h2>
+			<nav class="linklist">
+				
+					<li>
+					&raquo;
+				<a href="/2015-06-30-Nauka-gry">Pierwsze kroki na ukulele</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-23-jak-dbac-o-ukulele-zima">Jak dbać o ukulele zimą</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a></li>
+				
+			</nav>
+		</div>
+	</div>
+<div class="row">&nbsp;</div>
+</footer>
+</div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p class="pull-left">&copy; Grupa Trzymająca Ukulele 2017 | Projekt &copy Grzesiek Stefanek 2014</p>
+            <p class="pull-right">
+                Ostatnia aktualizacja: czwartek, 19.01.2017
+            </p>
+
+        </footer>
+    </div><!-- /container -->
+
+    <!-- Scripts -->
+    <script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><script defer="defer"  src="/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
+</html>

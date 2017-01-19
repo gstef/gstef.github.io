@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml"
+lang="pl">
+<head>
+    <!-- Meta -->
+	<meta property="fb:app_id" content="507581412661825" />
+	<meta property="fb:admins" content="1755679711"/>
+	<meta property="og:title" content="Teoria muzyki dla leniwych: Tonacje i skale"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="http://polish-ukulele.pl/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale"/>
+	<meta property="og:description" content="W drugim odcinku terapii szokowej teorią muzyki nauczymy się, co to są skale, jak je budować i co z tego wynika"/>
+	<meta property="og:image" content="http://www.polish-ukulele.pl/images/140/"/>
+
+    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+         More info: h5bp.com/i/378 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Our site title and description -->
+    <title>Teoria muzyki dla leniwych: Tonacje i skale | Poliż Ukulele!</title>
+    <meta name="description" content="W drugim odcinku terapii szokowej teorią muzyki nauczymy się, co to są skale, jak je budować i co z tego wynika" />
+    <meta name="keywords" content="ukulele, ukelele" />
+    <meta name="author" content="Grzegorz Stefanek" />
+
+    <!-- Output DocPad produced meta elements -->
+    <meta name="generator" content="DocPad v6.79.0" />
+
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script>
+
+    <!-- Mobile viewport optimized: h5bp.com/viewport -->
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Icons -->
+        <link rel="shortcut icon" href="images/icons/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+
+    <!-- Shims: IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/styles/twitter-bootstrap.css" /><link  rel="stylesheet" href="/styles/style.css" />
+
+<style>
+body {
+    background: url('/images/tlonew.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-photo1 {
+    background: url('/images/uku2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+
+.jumbotron-transparent {
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#110022;
+  color:#eee;
+  overflow:hidden;
+}
+
+.bg-light {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+    
+.bg-1 {
+    background: url('/images/uku3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}    
+.rounded-corner {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+}
+
+.white
+{
+	color: white !important;
+}
+
+.center-y{
+	display: inline-block;
+    vertical-align: middle;
+	}
+    </style>
+
+    
+</head>
+<body>
+    <!-- Menu -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/"> <img src="/images/icons/uke-icon.gif" height = 20>Polish Ukulele</a>
+            </div>
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/festiwal"
+                            class=""
+                        >
+                            <a href="/festiwal" property="dc:title">
+                                Polish Ukulele Festiwal 2017
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/dlaczego"
+                            class=""
+                        >
+                            <a href="/dlaczego" property="dc:title">
+                                Dlaczego ukulele
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/nauka-gry"
+                            class=""
+                        >
+                            <a href="/nauka-gry" property="dc:title">
+                                Nauka gry
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/artykuly"
+                            class=""
+                        >
+                            <a href="/artykuly" property="dc:title">
+                                Artykuły
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/FAQ"
+                            class=""
+                        >
+                            <a href="/FAQ" property="dc:title">
+                                FAQ
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/wywiady"
+                            class=""
+                        >
+                            <a href="/wywiady" property="dc:title">
+                                Wywiady
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/spolecznosc"
+                            class=""
+                        >
+                            <a href="/spolecznosc" property="dc:title">
+                                O nas
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </div>
+
+
+    
+    <!-- Content -->
+    <div class="container">
+        <!-- Content -->
+        <section id="content" class="content">
+            <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&appId=507581412661825&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="container-fluid jumbotron-transparent rounded-corner">
+<article id="post" class="post">
+	<h1>Teoria muzyki dla leniwych: Tonacje i skale</h1>
+	<div class="fb-like" data-href="http://polish-ukulele.pl/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+		<div class="post-date"> Howling Hobbit, tłumaczenie i uzupełnienia Grzesiek Stefanek | sobota, 18.02.2012
+			</div>
+	<p></p>
+	<div class="post-content"><p><strong>Grasz sobie spokojnie z przyjaciółmi, i nagle ktoś mówi - &quot;to teraz w tonacji G-dur&quot;. Co to oznacza?</strong></p>
+<p>Chociaż mamy dwanaście dźwieków w skali chromatycznej, utwory są zwykle napisane w jednej, wybranej tonacji. Każda z nich używa tylko siedmiu dźwięków (plus &quot;powtórki&quot; - dźwięki o tej samej nazwie, ale wyższe lub niższe o całą oktawę). Te siedem wybranych dźwięków nazywamy skalą lub gamą. A o utworze korzystającym z dźwięków danej skali mówimy właśnie, że jest w tonacji o tej samej nazwie.</p>
+<p>Nauczymy się w tym odcinku wybierać dźwięki do dwóch podstawowych skal - durowej i molowej. Potocznie  mówiąc, bo rodzajów skal durowych i molowych jest kilka. Ale tym nie zawracamy sobie głowy, wiedzcie po prostu, że uczymy się dwóch najważniejszych.</p>
+<p><strong>Które siedem dźwięków wybrać, aby utworzyć skalę durową?</strong></p>
+<p>Wybieramy sobie pierwszy dźwięk, czyli pierwszy stopień skali, zwany również toniką. To od niego skala bierze swoją nazwę. Użyjmy dźwięku C.</p>
+<p>Weźcie głęboki oddech, to będzie skok na głęboką wodę, a zamierzam załatwić ten temat w jednym podejściu.</p>
+<p>Zaczynając od toniki, idziemy o ton do drugiej nuty, o ton do trzeciej i pół tonu do czwartej. Dalej znów cały ton do piątej, cały do siódmej i o pół tonu do zamknięcia oktawy, czyli znów do C. Każda z tych nut ma przypisany numer, czyli stopień w skali, od 1 do 7. Opowiem więcej o tych cyferkach w części poświęconej akordom. Na razie nie przejmujcie się nimi, ale uwierzcie, że bardzo się przydadzą.</p>
+<p>Powtórka! Dwa całe tony, pół, trzy całe tony i pół.</p>
+<p>Skrótowo do zapamiętania:  Dwa i pół plus trzy i pół.</p>
+<p>Jeszcze raz przypomnę skalę chromatyczną.</p>
+<table class = "table" >
+<tbody >
+<tr >
+
+<td width="51" valign="top" >1
+</td>
+
+<td width="51" valign="top" >2
+</td>
+
+<td width="51" valign="top" >3
+</td>
+
+<td width="51" valign="top" >4
+</td>
+
+<td width="51" valign="top" >5
+</td>
+
+<td width="51" valign="top" >6
+</td>
+
+<td width="51" valign="top" >7
+</td>
+
+<td width="51" valign="top" >8
+</td>
+
+<td width="51" valign="top" >9
+</td>
+
+<td width="51" valign="top" >10
+</td>
+
+<td width="51" valign="top" >11
+</td>
+
+<td width="51" valign="top" >12
+</td>
+</tr>
+<tr >
+
+<td width="51" valign="top" >A
+</td>
+
+<td width="51" valign="top" >A# /Bb
+</td>
+
+<td width="51" valign="top" >B
+</td>
+
+<td width="51" valign="top" >C
+</td>
+
+<td width="51" valign="top" >C# /Db
+</td>
+
+<td width="51" valign="top" >D
+</td>
+
+<td width="51" valign="top" >D# /Eb
+</td>
+
+<td width="51" valign="top" >E
+</td>
+
+<td width="51" valign="top" >F
+</td>
+
+<td width="51" valign="top" >F# /Gb
+</td>
+
+<td width="51" valign="top" >G
+</td>
+
+<td width="51" valign="top" >G# /Ab
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Aby zbudować na jej podstawie skalę C-dur:</p>
+<ol>
+<li>startujemy od dźwięku C</li>
+</ol>
+<ol>
+<li>cały ton do góry - drugą nutką będzie D</li>
+</ol>
+<ol>
+<li>cały ton do góry - E</li>
+</ol>
+<ol>
+<li>pół tonu do góry - F</li>
+</ol>
+<ol>
+<li>cały ton - G</li>
+</ol>
+<ol>
+<li>cały ton - A</li>
+</ol>
+<ol>
+<li>cały ton - B</li>
+</ol>
+<ol>
+<li>i pół tonu - znów C</li>
+</ol>
+<p>W razie gdyby wyleciała wam z głowy poprzednia lekcja - w skali chromatycznej wszystkie dźwięki  są odległe od sąsiadów o półton. Czyli w zasadzie wystarczy wypisać wszystkie dźwięki w tabelce i policzyć kratki.</p>
+<p>A więc, skala C-dur: C D E F G A B C (ostatnie C o oktawę wyższe, niż pierwsze). Ta sama metoda - skala G-dur: G A B C D E F# G</p>
+<p>Wypisując skalę, ostatnią powtórzoną tonikę się zwykle pomija, i tak wszyscy wiedzą, o co chodzi. Jak pisałem, &quot;siedem nut ma oktawa, wbrew pozorom&quot;.</p>
+<p>To wszystko. Spróbujcie teraz sami zbudować jeszcze jakąś.</p>
+<p><strong>O co chodzi z tymi numerkami akordów?</strong></p>
+<p>Jak wspominałem, wszystkie dźwięki w skali mają swój numer - stopień w skali. Chociaż mają swoje trudne nazwy, to możemy równie dobrze używać tych numerków. Używamy tu cyfr arabskich. Zobaczycie czasami też cyfry rzymskie. Wówczas nie będą oznaczać pojedynczych dźwięków, tylko akordy, których dany dźwięk jest podstawą. I dopiero przy nauce akordów zobaczymy, jak bardzo te numerki ułatwiają życie. Na razie pamiętajcie - jeśli ktoś rzuci &quot;piątka z C-dur&quot;, to ma na myśli piąty stopień skali durowej rozpoczynającej się od C. Czyli dźwięk lub akord G. Takie proste.</p>
+<p><strong>A co ze skalą molową?</strong></p>
+<p>Masz dwie możliwości. Po pierwsze, można wykuć inną sekwencję tonów i półtonów (podam ją na końcu). Ale łatwiej będzie tak:</p>
+<p>Każda skala durowa ma odpowiadającą jej skalę molową, która używa tych samych dźwięków, tylko zaczyna sie od innego z nich. Taka „relatywna” skala molowa zaczyna się od szóstego dźwięku odpowiadającej jej skali durowej. Więc dla skali C-dur relatywną skalą molową będzie  a-moll. Aby otrzymać nutki ze skali molowej po prostu weźcie jej szósty i siódmy dźwięk i przestawcie go na początek. Skala a-moll: A B C D E F G.</p>
+<p>Więc jeszcze raz. Robimy tak:</p>
+<ol>
+<li>Wybieramy tonikę, a więc i nazwę budowanej skali. Niech to będzie np. E, więc budujemy skalę e-moll.</li>
+</ol>
+<ol>
+<li>Znajdujemy relatywną skalę durową. Czyli idziemy o półton i cały ton do góry. Znajdujemy tam G.</li>
+</ol>
+<ol>
+<li>Budujemy skalę G-dur. Już wiecie, jak.</li>
+</ol>
+<ol>
+<li>Przerzucamy dwie ostatnie nutki na początek.</li>
+</ol>
+<ol>
+<li>Wychodzi: E, F#, G, A, B, C, D</li>
+</ol>
+<p>Spróbujcie, to proste. Znacznie łatwiejsze, niż zapamiętanie kolejnej sekwencji (która brzmiałaby tak: ton, półton, ton, ton, półton, ton, ton)</p>
+<p>Skrót do zapamiętania: idziemy o ton i pół do góry, budujemy skalę durowa od znalezionego dźwięku i przestawiamy dwie ostatnie nutki na koniec.</p>
+<p><em>Być może zastanawiacie się w tej chwili, po co wam  powyższa wiedza. Akurat w tym momencie może się ona faktycznie wydawać mocno oderwana od rzeczywistości. Uwierzcie więc na słowo - już od następnej lekcji zauważycie, jak łatwo można wykorzystać ją w praktyce, nawet jeśli na codzień gracie głównie przysłowiowe &quot;ce-ef-gie&quot;.</em></p>
+<p><a href="http://www.howlinhobbit.com/">http://www.howlinhobbit.com/</a></p>
+</div>
+</article>
+
+
+   <div class="row">&nbsp</div>
+   <div class="row text-center">Chcesz podyskutować? Możesz i tutaj, ale większość rozmów prowadzimy w <a href="https://www.facebook.com/groups/polish.ukulele/">grupie Polish Ukulele na FB</a></div>
+
+<div class="fb-comments" data-width=100% data-href="http://polish-ukulele.pl/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale" data-numposts="5" data-colorscheme="light"></div>
+
+<footer>
+	<div class="row">
+		<div class="col-md-6 text-left">
+			<h2>Podobne teksty</h2>
+			<nav class="linklist">
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-03-03-teoria-muzyki-dla-leniwych-odcinek-trzeci-transpozycja">Teoria muzyki dla leniwych: Transpozycja</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-10-29-teoria-muzyki-dla-leniwych-odcinek-czwarty-budowa-akordu">Teoria muzyki dla leniwych: Budowa akordów</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-11-05-teoria-muzyki-dla-leniwych-uzupelnienie-1-automatyczna-budowa-akordow">Teoria muzyki dla leniwych: Suplement</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2013-09-13-mnemotechnika-na-najwazniejsze-skale-durowe">Mnemotechnika na najważniejsze skale durowe</a></li>
+				
+			</nav>
+		</div>
+		<div class="col-md-6 text-right">
+		<h2>Polecane teksty</h2>
+			<nav class="linklist">
+				
+					<li>
+					&raquo;
+				<a href="/2015-06-30-Nauka-gry">Pierwsze kroki na ukulele</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-23-jak-dbac-o-ukulele-zima">Jak dbać o ukulele zimą</a></li>
+				
+					<li>
+					&raquo;
+				<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a></li>
+				
+			</nav>
+		</div>
+	</div>
+<div class="row">&nbsp;</div>
+</footer>
+</div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p class="pull-left">&copy; Grupa Trzymająca Ukulele 2017 | Projekt &copy Grzesiek Stefanek 2014</p>
+            <p class="pull-right">
+                Ostatnia aktualizacja: czwartek, 19.01.2017
+            </p>
+
+        </footer>
+    </div><!-- /container -->
+
+    <!-- Scripts -->
+    <script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><script defer="defer"  src="/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
+</html>

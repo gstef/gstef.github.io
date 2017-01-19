@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml"
+lang="pl">
+<head>
+    <!-- Meta -->
+	<meta property="fb:app_id" content="507581412661825" />
+	<meta property="fb:admins" content="1755679711"/>
+	<meta property="og:title" content="Artykuły"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="http://polish-ukulele.pl/artykuly"/>
+	<meta property="og:description" content=""/>
+	<meta property="og:image" content="http://www.polish-ukulele.pl/images/140/"/>
+
+    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+         More info: h5bp.com/i/378 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- Our site title and description -->
+    <title>Artykuły | Poliż Ukulele!</title>
+    <meta name="description" content="Strona polskiej społeczności ukulele - najsympatyczniejszego z instrumentów. Nauka gry, spotkania, integracja, świetna zabawa." />
+    <meta name="keywords" content="ukulele, ukelele" />
+    <meta name="author" content="Grzegorz Stefanek" />
+
+    <!-- Output DocPad produced meta elements -->
+    <meta name="generator" content="DocPad v6.79.0" />
+
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script>
+
+    <!-- Mobile viewport optimized: h5bp.com/viewport -->
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Icons -->
+        <link rel="shortcut icon" href="images/icons/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+
+    <!-- Shims: IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/styles/twitter-bootstrap.css" /><link  rel="stylesheet" href="/styles/style.css" />
+
+<style>
+body {
+    background: url('/images/tlonew.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-photo1 {
+    background: url('/images/uku2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+
+.jumbotron-transparent {
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#110022;
+  color:#eee;
+  overflow:hidden;
+}
+
+.bg-light {
+    background-color: rgba(245, 245, 245, 0.8);
+    }
+    
+.bg-1 {
+    background: url('/images/uku3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}    
+.rounded-corner {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+}
+
+.white
+{
+	color: white !important;
+}
+
+.center-y{
+	display: inline-block;
+    vertical-align: middle;
+	}
+    </style>
+
+    
+</head>
+<body>
+    <!-- Menu -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/"> <img src="/images/icons/uke-icon.gif" height = 20>Polish Ukulele</a>
+            </div>
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/festiwal"
+                            class=""
+                        >
+                            <a href="/festiwal" property="dc:title">
+                                Polish Ukulele Festiwal 2017
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/dlaczego"
+                            class=""
+                        >
+                            <a href="/dlaczego" property="dc:title">
+                                Dlaczego ukulele
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/nauka-gry"
+                            class=""
+                        >
+                            <a href="/nauka-gry" property="dc:title">
+                                Nauka gry
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/artykuly"
+                            class="active"
+                        >
+                            <a href="/artykuly" property="dc:title">
+                                Artykuły
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/FAQ"
+                            class=""
+                        >
+                            <a href="/FAQ" property="dc:title">
+                                FAQ
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/wywiady"
+                            class=""
+                        >
+                            <a href="/wywiady" property="dc:title">
+                                Wywiady
+                            </a>
+                        </li>
+                    
+                        <li
+                            typeof="sioc:Page"
+                            about="/spolecznosc"
+                            class=""
+                        >
+                            <a href="/spolecznosc" property="dc:title">
+                                O nas
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </div>
+
+
+    
+    <!-- Content -->
+    <div class="container">
+        <!-- Content -->
+        <section id="content" class="content">
+            <article id="page" class="page">
+	<div class="page-content"><div class="container-fluid text-center">
+    <div class ="row">      
+		<div class="col-md-8 column text-center">
+			<h1>
+					Dowiedz się więcej o ukulele
+			</h1>
+            <p class="lead">
+				Zbieramy tutaj teksty, które warto uchronić przed ulotnością facebookowej "ściany"
+            </p>
+        </div>
+
+        </div>
+        
+        
+    </div>
+</div>
+<div class = "container-fluid jumbotron-transparent rounded-corner">
+<div class="row">&nbsp;</div>
+
+
+
+<div class="row">
+  <div class="col-md-3 text-center">
+    <img src="/images/140/uke140.jpg" class="img-circle" >
+  </div>
+  <div class="col-md-9">
+    <h2>Instrumenty i akcesoria</h2>
+    <nav class="linklist">
+        
+            <li>
+            &raquo;
+				<a href="/2014-11-29-mahilele">Test: Mahilele soprano</a>
+				<p>Jeszcze jedno plastikowe ukulele</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-11-24-cigar-box">Zbudowałam ukulele!</a>
+				<p>Relacja Moni z przerabiania skrzynki po cygarach na coś głośniejszego</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-08-31-flea-soprano">Test: Flea Soprano</a>
+				<p>Kolejny test plastikowego ukulele, tym razem zrobionego tak, jak trzeba</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-07-22-korala-explore">Test: Korala Explore (PUC-20)</a>
+				<p>Najtańsze z poprawnie grających</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-07-16-lanikai-lu-21">Test: Lanikai LU-21</a>
+				<p>Jak niegdyś najpopularniejsze uke w Polsce wypada na tle konkurencji?</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-03-06-sprzet-kapodaster-czym-to-sie-je">Kapodaster - z czym to się je</a>
+				<p>Jak ułatwić sobie życie gadżetem za 30zł</p>
+        
+            <li>
+            &raquo;
+				<a href="/2013-05-09-dwuglos-o-drewnie-czesc-druga">Heretycki przewodnik po drewnie lutniczym</a>
+				<p>Druga część dwugłosu o drewnie, z radykalnie odmiennym spojrzeniem</p>
+        
+            <li>
+            &raquo;
+				<a href="/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza">Z jakiego drewna powstają najlepsze ukulele?</a>
+				<p>Pierwsza część dwugłosu o drewnie lutniczym, z klasycznym podejściem do tematu</p>
+        
+            <li>
+            &raquo;
+				<a href="/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1">Rejestrator dla ukisty - test Zoom H1</a>
+				<p>Prawdopodobnie najbardziej uniwersalny i ekonomiczny zarazem sprzęt do nagrywania muzyki</p>
+        
+            <li>
+            &raquo;
+				<a href="/2012-02-23-jak-dbac-o-ukulele-zima">Jak dbać o ukulele zimą</a>
+				<p>O przechowywaniu ukulele tak, by nie zaszkodziły mu kaloryfery i zmienna pogoda</p>
+        
+            <li>
+            &raquo;
+				<a href="/2012-04-04-jakie-struny-wybrac-i-dlaczego-aquila-to-nie-zawsze-najlepszy-wybor">Jakie struny wybrać, i dlaczego nie zawsze Aquila?</a>
+				<p>Jeśli onieśmiela cię ilość i rozpiętość cen strun do ukulele, poczytaj, jak mądrze je wybrać</p>
+        
+</nav>
+  </div>
+</div>
+
+<div class="row">&nbsp;</div>
+
+<div class="row">
+	<div class="row text-center">
+	</div>
+	  <div class="col-md-3 text-center">
+    <img src="/images/140/gramy140.jpg" class="img-circle">
+  </div>
+  <div class="col-md-9">
+    <h2>Teoria muzyki</h2>
+    <nav class="linklist">
+        
+        
+            <li>
+            &raquo;
+				<a href="/2013-09-13-mnemotechnika-na-najwazniejsze-skale-durowe">Mnemotechnika na najważniejsze skale durowe</a>
+				<p>Czasami pamięci trzeba dopomóc kreatywnością</p>
+				</li>
+        
+            <li>
+            &raquo;
+				<a href="/2012-11-05-teoria-muzyki-dla-leniwych-uzupelnienie-1-automatyczna-budowa-akordow">Teoria muzyki dla leniwych: Suplement</a>
+				<p>Dla najleniwszych z leniwych - kawałek kodu stosujący automatycznie zdobytą wiedzę</p>
+				</li>
+        
+            <li>
+            &raquo;
+				<a href="/2012-10-29-teoria-muzyki-dla-leniwych-odcinek-czwarty-budowa-akordu">Teoria muzyki dla leniwych: Budowa akordów</a>
+				<p>W drugim odcinku terapii szokowej teorią muzyki nauczymy się, co to są skale, jak je budować i co z tego wynika</p>
+				</li>
+        
+            <li>
+            &raquo;
+				<a href="/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale">Teoria muzyki dla leniwych: Tonacje i skale</a>
+				<p>W drugim odcinku terapii szokowej teorią muzyki nauczymy się, co to są skale, jak je budować i co z tego wynika</p>
+				</li>
+        
+            <li>
+            &raquo;
+				<a href="/2012-03-03-teoria-muzyki-dla-leniwych-odcinek-trzeci-transpozycja">Teoria muzyki dla leniwych: Transpozycja</a>
+				<p>Zapoznaliśmy się z pojęciem tonacji utworu, czas nauczyć się więc, jak je wykorzystać w praktyce</p>
+				</li>
+        
+            <li>
+            &raquo;
+				<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a>
+				<p>Wszystko, co chcielibyście wiedzieć z teorii muzyki, ale boicie się przeczytać</p>
+				</li>
+        
+    </nav>
+  </div>
+
+</div>
+<div class="row">&nbsp;</div>
+
+<div class="row">
+  <div class="col-md-3 text-center">
+    <img src="/images/140/articles140.jpg" class="img-circle" >
+  </div>
+  <div class="col-md-9">
+    <h2>Książki</h2>
+    <nav class="linklist">
+        
+            <li>
+            &raquo;
+				<a href="/2017-01-18-FAQ">Ukulele FAQ</a>
+				<p>Często zadawane pytania o Ukulele</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-10-16-ukulele-history">The 'Ukulele – A History (recenzja)</a>
+				<p>Prawdopodobnie jedyna monografia ukulele warta tej nazwy</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-08-22-sloneczne-rytmy">Słoneczne rytmy na ukulele (recenzja)</a>
+				<p>Kilka słów o kolejnym polskim ukulelowym wydawnictwie</p>
+        
+            <li>
+            &raquo;
+				<a href="/2014-08-11-ukulele-dla-kazdego-recenzja">Ukulele dla każdego - szkoła gry (recenzja)</a>
+				<p>O pierwszym polskim podręczniku gry na ukulele</p>
+        
+</nav>
+  </div>
+</div>
+
+<div class="row">&nbsp;</div>
+
+<div class="row">
+  <div class="col-md-3 text-center">
+    <img src="/images/140/nagrywamy140.jpg" class="img-circle" >
+  </div>
+  <div class="col-md-9">
+    <h2>Nagrywanie ukulele</h2>
+    <nav class="linklist">
+        
+            <li>
+            &raquo;
+				<a href="/2013-02-06-nagrywamy-ukulele-3-jak-nagrywac-parami-i-stadami">Jak nagrywać parami i stadami</a>
+				<p>O tym, jak zabrać się do nagrania zdalnego duetu z kolegą z daleka</p>
+        
+            <li>
+            &raquo;
+				<a href="/2012-12-14-nagrywamy-ukulele-czesc-druga-podstawy-komputerowej-produkcji-dzwieku">Nagrywamy ukulele: Podstawy komputerowej produkcji dźwięku</a>
+				<p>W drugim odcinku cyklu o nagrywaniu dowiemy się, co może zrobić dla nas software, gdy surowy materiał nas nie satysfakcjonuje</p>
+        
+            <li>
+            &raquo;
+				<a href="/2012-03-19-nagrywamy-ukulele-1-podstawy">Nagrywamy ukulele: Podstawy</a>
+				<p>Chciałbyś pochwalić się postępami, ale nie wiesz, jak nagrać ukulele? Przeczytaj krótkie wprowadzenie w temat</p>
+        
+</nav>
+  </div>
+</div>
+
+<div class="row">&nbsp;</div>  
+<div class="row">
+  <div class="col-md-3 text-center">
+    <img src="/images/140/tort140.jpg" class="img-circle" >
+  </div>
+  <div class="col-md-9">
+    <h2>Relacje z wydarzeń</h2>
+<nav class="linklist">
+	
+		<li><span>05.08.2015</span>
+		&raquo;
+		<a href="/2015-08-04-III-Czeski-festiwal-Ukulele">III Czeski Festiwal Ukulele</a></li>
+		<p>Trzecia edycja fantastycznej imprezy, z coraz większym udziałem gości z Polish Ukulele</p>
+	
+		<li><span>15.02.2015</span>
+		&raquo;
+		<a href="/2015-02-15-UOGB">Ukulele Orchestra of Great Britain wreszcie w Polsce</a></li>
+		<p>Najbardziej znany zespół ukulelowy na świecie z nieoczekiwaną wizytą w Nowym Sączu</p>
+	
+		<li><span>10.02.2015</span>
+		&raquo;
+		<a href="/2015-02-10-bukowno">V Urodziny Polish Ukulele w Bukownie</a></li>
+		<p>Kolejny raz hucznie obchodzimy Światowy Dzień Ukulele i zarazem urodziny naszej grupy</p>
+	
+		<li><span>05.08.2014</span>
+		&raquo;
+		<a href="/2014-08-04-II-Czeski-festiwal">II Czeski Festiwal Ukulele</a></li>
+		<p>Powróciliśmy do Pragi na najlepszą ukulelową imprezę w naszej części Europy</p>
+	
+		<li><span>05.07.2014</span>
+		&raquo;
+		<a href="/2014-07-05-swieto-herbaty">Święto Herbaty i Ukulele</a></li>
+		<p>Gościnne warsztaty Polish Ukulele w czeskim Cieszynie</p>
+	
+		<li><span>01.07.2014</span>
+		&raquo;
+		<a href="/2014-07-01-ukulele-na-woodstocku">Ukulele na Woodstocku</a></li>
+		<p>Organizujemy się w ukulelową ekipę na Woodstock 2014</p>
+	
+		<li><span>29.09.2013</span>
+		&raquo;
+		<a href="/2013-09-29-i-czeski-festiwal-ukulele-nasza-relacja">I Czeski Festiwal Ukulele</a></li>
+		<p>Najlepsza impreza ukulelowa w okolicy, choć jeszcze wciąż za granicą</p>
+	
+		<li><span>04.02.2013</span>
+		&raquo;
+		<a href="/2013-02-04-swiatowy-dzien-ukulele-bukowno-2013">Światowy Dzień Ukulele - Bukowno 2013</a></li>
+		<p>Relacja z pierwszych polskich obchodów święta ukulele, ale na pewno nie ostatnich</p>
+	
+		<li><span>27.01.2013</span>
+		&raquo;
+		<a href="/2013-01-27-iii-swiatowy-dzien-ukulele">III Światowy Dzień Ukulele</a></li>
+		<p>Świętujemy na żywo i w Internecie</p>
+	
+		<li><span>28.02.2012</span>
+		&raquo;
+		<a href="/2012-02-28-ii-urodziny-polish-ukulele">II Urodziny Polish Ukulele</a></li>
+		<p>Świętujemy drugie urodziny grupy w Krakowie</p>
+	
+</nav>
+  </div>
+</div>
+
+<div class="row">&nbsp;</div>  
+<div class="row">
+  <div class="col-md-3 text-center">
+    <img src="/images/140/met140.jpg" class="img-circle" >
+  </div>
+  <div class="col-md-9">
+    <h2>Konkursy na nagranie</h2>
+<nav class="linklist">
+	
+		<li><span>03.09.2015</span>
+		&raquo;
+		<a href="/2015-09-03-XXXII-konkurs-niezapowiedziana-klasowka">XXXII Konkurs Ukulele &quot;Niezapowiedziana Klasówka&quot;</a></li>
+		<p>Ekspresowy sprawdzian z ukulelowania</p>
+	
+		<li><span>17.05.2015</span>
+		&raquo;
+		<a href="/2015-05-17-XXXI-konkurs-niezly-numer">XXXI Konkurs Ukulele &quot;Niezły numer&quot;</a></li>
+		<p>Kolejny konkurs ukulele z kreatywnym tematem</p>
+	
+		<li><span>22.03.2015</span>
+		&raquo;
+		<a href="/2015-01-05-XXX-konkurs-najlepszy-rocznik">XXX Konkurs Ukulele &quot;Najlepszy rocznik&quot;</a></li>
+		<p>Jubileuszowy konkurs na temat inny, niż wszystkie</p>
+	
+		<li><span>05.01.2015</span>
+		&raquo;
+		<a href="/2015-01-05-XIX-konkurs-swiateczny">XIX Konkurs &quot;Ukulele na Święta&quot;</a></li>
+		<p>Konkurs świąteczny już po raz piąty!</p>
+	
+		<li><span>15.10.2014</span>
+		&raquo;
+		<a href="/2014-10-15-XVIII-konkurs-trzy-akordy">XXVIII Konkurs Ukulele &quot;Trzy akordki i darcie mordki&quot;</a></li>
+		<p>Konkurs dla wszystkich - trzy akordy i ani jednego więcej</p>
+	
+		<li><span>22.06.2014</span>
+		&raquo;
+		<a href="/2014-06-22-XXVII-konkurs-hawaje">XXVII Konkurs Ukulele &quot;Stare i nowe melodie hawajskie&quot;</a></li>
+		<p>Wracamy do korzeni ukulele, czyli na Hawaje. A przynajmniej na plażę.</p>
+	
+		<li><span>04.05.2014</span>
+		&raquo;
+		<a href="/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni">XXVI Konkurs Ukulele &quot;Wzniosłe treści obcych pieśni&quot;</a></li>
+		<p>Ukulele w dobrym i gorszym przekładzie</p>
+	
+		<li><span>21.03.2014</span>
+		&raquo;
+		<a href="/2014-03-31-XXV-konkurs">XXV Konkurs Ukulele &quot;Gramy Reggae&quot;</a></li>
+		<p>Ukulele Hawajsko-Jamajskie</p>
+	
+		<li><span>10.02.2014</span>
+		&raquo;
+		<a href="/2014-02-10-xxiii-nieprawdopodobny-konkurs-ukulele">XXIII Nieprawdopodobny Konkurs Ukulele</a></li>
+		<p>Co, że ja nie zagram?</p>
+	
+		<li><span>30.12.2013</span>
+		&raquo;
+		<a href="/2013-12-30-xxii-konkurs-ukulele-na-swieta">XXII Konkurs &quot;Ukulele na Święta&quot;</a></li>
+		<p>Staramy się urozmaicać tematy konkursów, ale świąteczny jest obowiązkowy!</p>
+	
+		<li><span>09.12.2013</span>
+		&raquo;
+		<a href="/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow">XXI Konkurs &quot;Ukulele dla ponuraków :(&quot;</a></li>
+		<p>Dla odmiany, ukulele na smutno i żałośnie</p>
+	
+		<li><span>18.11.2013</span>
+		&raquo;
+		<a href="/2013-11-18-krododyl-challenge-czyli-konkurs-instant">Krododyl Challenge, czyli konkurs instant</a></li>
+		<p>Nowe zjawisko na PU - konkurs błyskawiczny</p>
+	
+		<li><span>13.11.2013</span>
+		&raquo;
+		<a href="/2013-11-12-xx-radosny-konkurs-ukulele">XX Radosny Konkurs Ukulele</a></li>
+		<p>Optymistyczny konkurs.. tak, jakby inne były smutne...</p>
+	
+		<li><span>10.09.2013</span>
+		&raquo;
+		<a href="/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele">Zapraszamy na XX Radosny Konkurs Ukulele</a></li>
+		<p>Jubileuszowy konkurs z nagrodami</p>
+	
+		<li><span>02.09.2013</span>
+		&raquo;
+		<a href="/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje">XIX Konkurs Ukulele &quot;Piosenka na wakacje&quot;</a></li>
+		<p>Kanikuła z ukulele, czyli kolejny konkurs wakacyjny</p>
+	
+		<li><span>01.07.2013</span>
+		&raquo;
+		<a href="/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku">XVIII Konkurs Ukulele &quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&quot;</a></li>
+		<p>Ambitny konkurs na piosenkę ze złotego wieku ukulele</p>
+	
+		<li><span>22.04.2013</span>
+		&raquo;
+		<a href="/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice">XVI Konkurs Ukulele &quot;The Beatles i okolice&quot;</a></li>
+		<p>Beatlesi grywali na ukulele, a my grywamy Beatlesów</p>
+	
+		<li><span>18.02.2013</span>
+		&raquo;
+		<a href="/2013-02-18-xv-konkurs-ukulele-piosenka-o-milosci">XV Konkurs Ukulele &quot;Piosenka o miłości&quot;</a></li>
+		<p>Jak pokazuje ilość nadesłanych nagrań, piosenki o miłości to wciąż temat nie do pobicia</p>
+	
+		<li><span>27.12.2012</span>
+		&raquo;
+		<a href="/2012-12-27-iii-konkurs-ukulele-na-swieta">III Konkurs Ukulele na Święta</a></li>
+		<p>Czternasty konkurs, w tym już trzeci świąteczny!</p>
+	
+		<li><span>02.04.2012</span>
+		&raquo;
+		<a href="/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych">IX Konkurs Ukulele &quot;Przeboje lat 60-tych&quot;</a></li>
+		<p>Wyjątkowo popularny konkurs na przeboje ze złotej epoki muzyki</p>
+	
+		<li><span>06.05.2011</span>
+		&raquo;
+		<a href="/2011-05-06-iii-rockowy-konkurs-ukulele">Rockowy Konkurs Ukulele</a></li>
+		<p>Kolejna porcja nagrań z pionierskiego okresu</p>
+	
+		<li><span>01.04.2011</span>
+		&raquo;
+		<a href="/2001-04-02-archiwum-pu-iii-morski-konkurs-ukulele">Morski Konkurs Ukulele</a></li>
+		<p>Kolejny z wczesnych konkursów wyciągnięty z archiwum Facebooka</p>
+	
+</nav>
+  </div>
+</div>
+
+<div class="row">&nbsp;</div>  
+<div class="row">
+  <div class="col-md-3 text-center">
+    <img src="/images/140/beach140.jpg" class="img-circle" >
+  </div>
+  <div class="col-md-9">
+    <h2>Archiwum</h2>
+<nav class="linklist">
+	
+		<li><span>17.02.2017</span>
+		&raquo;
+		<a href="/festiwal">Polish Ukulele Festiwal 2017</a></li>
+	
+		<li><span>18.01.2017</span>
+		&raquo;
+		<a href="/2017-01-18-FAQ">Ukulele FAQ</a></li>
+	
+		<li><span>03.09.2015</span>
+		&raquo;
+		<a href="/2015-09-03-XXXII-konkurs-niezapowiedziana-klasowka">XXXII Konkurs Ukulele &quot;Niezapowiedziana Klasówka&quot;</a></li>
+	
+		<li><span>05.08.2015</span>
+		&raquo;
+		<a href="/2015-08-04-III-Czeski-festiwal-Ukulele">III Czeski Festiwal Ukulele</a></li>
+	
+		<li><span>01.07.2015</span>
+		&raquo;
+		<a href="/2015-06-30-Nauka-gry">Pierwsze kroki na ukulele</a></li>
+	
+		<li><span>21.05.2015</span>
+		&raquo;
+		<a href="/2015-05-20-Co-slychac-EP">Co słychać? Nową płytę Co Słychać!</a></li>
+	
+		<li><span>17.05.2015</span>
+		&raquo;
+		<a href="/2015-05-17-XXXI-konkurs-niezly-numer">XXXI Konkurs Ukulele &quot;Niezły numer&quot;</a></li>
+	
+		<li><span>22.03.2015</span>
+		&raquo;
+		<a href="/2015-01-05-XXX-konkurs-najlepszy-rocznik">XXX Konkurs Ukulele &quot;Najlepszy rocznik&quot;</a></li>
+	
+		<li><span>15.02.2015</span>
+		&raquo;
+		<a href="/2015-02-15-UOGB">Ukulele Orchestra of Great Britain wreszcie w Polsce</a></li>
+	
+		<li><span>10.02.2015</span>
+		&raquo;
+		<a href="/2015-02-10-bukowno">V Urodziny Polish Ukulele w Bukownie</a></li>
+	
+		<li><span>05.01.2015</span>
+		&raquo;
+		<a href="/2015-01-05-XIX-konkurs-swiateczny">XIX Konkurs &quot;Ukulele na Święta&quot;</a></li>
+	
+		<li><span>29.11.2014</span>
+		&raquo;
+		<a href="/2014-11-29-mahilele">Test: Mahilele soprano</a></li>
+	
+		<li><span>27.11.2014</span>
+		&raquo;
+		<a href="/2014-11-27-podlasie">Warsztaty i konkurs</a></li>
+	
+		<li><span>24.11.2014</span>
+		&raquo;
+		<a href="/2014-11-24-cigar-box">Zbudowałam ukulele!</a></li>
+	
+		<li><span>25.10.2014</span>
+		&raquo;
+		<a href="/2004-10-25-przyjazne">Rabat w przyjazne-ukulele.pl</a></li>
+	
+		<li><span>16.10.2014</span>
+		&raquo;
+		<a href="/2014-10-16-ukulele-history">The 'Ukulele – A History (recenzja)</a></li>
+	
+		<li><span>15.10.2014</span>
+		&raquo;
+		<a href="/2014-10-15-XVIII-konkurs-trzy-akordy">XXVIII Konkurs Ukulele &quot;Trzy akordki i darcie mordki&quot;</a></li>
+	
+		<li><span>13.10.2014</span>
+		&raquo;
+		<a href="/2014-10-13-mytune">Rabat w mytune.pl</a></li>
+	
+		<li><span>31.08.2014</span>
+		&raquo;
+		<a href="/2014-08-31-flea-soprano">Test: Flea Soprano</a></li>
+	
+		<li><span>22.08.2014</span>
+		&raquo;
+		<a href="/2014-08-22-sloneczne-rytmy">Słoneczne rytmy na ukulele (recenzja)</a></li>
+	
+		<li><span>11.08.2014</span>
+		&raquo;
+		<a href="/2014-08-11-ukulele-dla-kazdego-recenzja">Ukulele dla każdego - szkoła gry (recenzja)</a></li>
+	
+		<li><span>05.08.2014</span>
+		&raquo;
+		<a href="/2014-08-04-II-Czeski-festiwal">II Czeski Festiwal Ukulele</a></li>
+	
+		<li><span>22.07.2014</span>
+		&raquo;
+		<a href="/2014-07-22-korala-explore">Test: Korala Explore (PUC-20)</a></li>
+	
+		<li><span>16.07.2014</span>
+		&raquo;
+		<a href="/2014-07-16-ukista-ukulelista-ukeman">Ukiści, ukuleliści, ukeholicy... Jak się nazywamy?</a></li>
+	
+		<li><span>15.07.2014</span>
+		&raquo;
+		<a href="/2014-07-16-Zmiany">Idzie nowe!</a></li>
+	
+		<li><span>15.07.2014</span>
+		&raquo;
+		<a href="/2014-07-16-lanikai-lu-21">Test: Lanikai LU-21</a></li>
+	
+		<li><span>05.07.2014</span>
+		&raquo;
+		<a href="/2014-07-05-swieto-herbaty">Święto Herbaty i Ukulele</a></li>
+	
+		<li><span>01.07.2014</span>
+		&raquo;
+		<a href="/2014-07-01-ukulele-na-woodstocku">Ukulele na Woodstocku</a></li>
+	
+		<li><span>22.06.2014</span>
+		&raquo;
+		<a href="/2014-06-22-XXVII-konkurs-hawaje">XXVII Konkurs Ukulele &quot;Stare i nowe melodie hawajskie&quot;</a></li>
+	
+		<li><span>04.05.2014</span>
+		&raquo;
+		<a href="/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni">XXVI Konkurs Ukulele &quot;Wzniosłe treści obcych pieśni&quot;</a></li>
+	
+		<li><span>21.03.2014</span>
+		&raquo;
+		<a href="/2014-03-31-XXV-konkurs">XXV Konkurs Ukulele &quot;Gramy Reggae&quot;</a></li>
+	
+		<li><span>06.03.2014</span>
+		&raquo;
+		<a href="/2014-03-06-sprzet-kapodaster-czym-to-sie-je">Kapodaster - z czym to się je</a></li>
+	
+		<li><span>10.02.2014</span>
+		&raquo;
+		<a href="/2014-02-10-xxiii-nieprawdopodobny-konkurs-ukulele">XXIII Nieprawdopodobny Konkurs Ukulele</a></li>
+	
+		<li><span>30.12.2013</span>
+		&raquo;
+		<a href="/2013-12-30-xxii-konkurs-ukulele-na-swieta">XXII Konkurs &quot;Ukulele na Święta&quot;</a></li>
+	
+		<li><span>11.12.2013</span>
+		&raquo;
+		<a href="/2013-12-11-taaaaaaakie-ukulele-wygralismy">Taaaaaaakie ukulele wygraliśmy!</a></li>
+	
+		<li><span>11.12.2013</span>
+		&raquo;
+		<a href="/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9">Tydzień (z hakiem) na Polish Ukulele #9</a></li>
+	
+		<li><span>09.12.2013</span>
+		&raquo;
+		<a href="/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow">XXI Konkurs &quot;Ukulele dla ponuraków :(&quot;</a></li>
+	
+		<li><span>18.11.2013</span>
+		&raquo;
+		<a href="/2013-11-18-krododyl-challenge-czyli-konkurs-instant">Krododyl Challenge, czyli konkurs instant</a></li>
+	
+		<li><span>13.11.2013</span>
+		&raquo;
+		<a href="/2013-11-12-xx-radosny-konkurs-ukulele">XX Radosny Konkurs Ukulele</a></li>
+	
+		<li><span>16.10.2013</span>
+		&raquo;
+		<a href="/2013-10-16-tydzien-na-polish-ukulele-8">Tydzień na Polish Ukulele #8</a></li>
+	
+		<li><span>10.10.2013</span>
+		&raquo;
+		<a href="/2013-10-10-youketube-3">YoukeTube #3</a></li>
+	
+		<li><span>09.10.2013</span>
+		&raquo;
+		<a href="/2013-10-09-tydzien-na-polish-ukulele-7">Tydzień na Polish Ukulele #7</a></li>
+	
+		<li><span>01.10.2013</span>
+		&raquo;
+		<a href="/2013-10-01-tydzien-na-polish-ukulele-6">Tydzień na Polish Ukulele #6</a></li>
+	
+		<li><span>29.09.2013</span>
+		&raquo;
+		<a href="/2013-09-29-i-czeski-festiwal-ukulele-nasza-relacja">I Czeski Festiwal Ukulele</a></li>
+	
+		<li><span>27.09.2013</span>
+		&raquo;
+		<a href="/2013-09-27-ukulele-w-dobrych-rekach-6-zagi">Zagi</a></li>
+	
+		<li><span>24.09.2013</span>
+		&raquo;
+		<a href="/2013-09-24-youke-tube-1">Youke Tube #1</a></li>
+	
+		<li><span>23.09.2013</span>
+		&raquo;
+		<a href="/2013-09-23-tydzien-na-polish-ukulele-5">Tydzień na Polish Ukulele #5</a></li>
+	
+		<li><span>17.09.2013</span>
+		&raquo;
+		<a href="/2013-09-17-tydzien-na-polish-ukulele-4">Tydzień na Polish Ukulele #4</a></li>
+	
+		<li><span>13.09.2013</span>
+		&raquo;
+		<a href="/2013-09-13-mnemotechnika-na-najwazniejsze-skale-durowe">Mnemotechnika na najważniejsze skale durowe</a></li>
+	
+		<li><span>10.09.2013</span>
+		&raquo;
+		<a href="/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele">Zapraszamy na XX Radosny Konkurs Ukulele</a></li>
+	
+		<li><span>02.09.2013</span>
+		&raquo;
+		<a href="/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje">XIX Konkurs Ukulele &quot;Piosenka na wakacje&quot;</a></li>
+	
+		<li><span>01.07.2013</span>
+		&raquo;
+		<a href="/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku">XVIII Konkurs Ukulele &quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&quot;</a></li>
+	
+		<li><span>09.05.2013</span>
+		&raquo;
+		<a href="/2013-05-09-dwuglos-o-drewnie-czesc-druga">Heretycki przewodnik po drewnie lutniczym</a></li>
+	
+		<li><span>08.05.2013</span>
+		&raquo;
+		<a href="/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza">Z jakiego drewna powstają najlepsze ukulele?</a></li>
+	
+		<li><span>22.04.2013</span>
+		&raquo;
+		<a href="/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice">XVI Konkurs Ukulele &quot;The Beatles i okolice&quot;</a></li>
+	
+		<li><span>06.03.2013</span>
+		&raquo;
+		<a href="/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1">Rejestrator dla ukisty - test Zoom H1</a></li>
+	
+		<li><span>18.02.2013</span>
+		&raquo;
+		<a href="/2013-02-18-xv-konkurs-ukulele-piosenka-o-milosci">XV Konkurs Ukulele &quot;Piosenka o miłości&quot;</a></li>
+	
+		<li><span>06.02.2013</span>
+		&raquo;
+		<a href="/2013-02-06-nagrywamy-ukulele-3-jak-nagrywac-parami-i-stadami">Jak nagrywać parami i stadami</a></li>
+	
+		<li><span>04.02.2013</span>
+		&raquo;
+		<a href="/2013-02-04-swiatowy-dzien-ukulele-bukowno-2013">Światowy Dzień Ukulele - Bukowno 2013</a></li>
+	
+		<li><span>27.01.2013</span>
+		&raquo;
+		<a href="/2013-01-27-iii-swiatowy-dzien-ukulele">III Światowy Dzień Ukulele</a></li>
+	
+		<li><span>27.12.2012</span>
+		&raquo;
+		<a href="/2012-12-27-iii-konkurs-ukulele-na-swieta">III Konkurs Ukulele na Święta</a></li>
+	
+		<li><span>21.12.2012</span>
+		&raquo;
+		<a href="/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy">Polish Ukulele dla dzieciaków ze świetlicy</a></li>
+	
+		<li><span>14.12.2012</span>
+		&raquo;
+		<a href="/2012-12-14-nagrywamy-ukulele-czesc-druga-podstawy-komputerowej-produkcji-dzwieku">Nagrywamy ukulele: Podstawy komputerowej produkcji dźwięku</a></li>
+	
+		<li><span>09.11.2012</span>
+		&raquo;
+		<a href="/2012-11-09-tydzien-na-polish-ukulele-3">Tydzień na Polish Ukulele #3</a></li>
+	
+		<li><span>05.11.2012</span>
+		&raquo;
+		<a href="/2012-11-05-teoria-muzyki-dla-leniwych-uzupelnienie-1-automatyczna-budowa-akordow">Teoria muzyki dla leniwych: Suplement</a></li>
+	
+		<li><span>29.10.2012</span>
+		&raquo;
+		<a href="/2012-10-29-teoria-muzyki-dla-leniwych-odcinek-czwarty-budowa-akordu">Teoria muzyki dla leniwych: Budowa akordów</a></li>
+	
+		<li><span>25.10.2012</span>
+		&raquo;
+		<a href="/2012-10-25-iv-spotkanie-frakcji-warszawskiej">IV Spotkanie Frakcji Warszawskiej</a></li>
+	
+		<li><span>19.10.2012</span>
+		&raquo;
+		<a href="/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka">Gaba Kulka</a></li>
+	
+		<li><span>14.06.2012</span>
+		&raquo;
+		<a href="/2012-06-14-x-konkurs-polish-ukulele-plastik-atakuje-bardzo-ale-to-bardzo-zly-pop">X Konkurs Polish Ukulele &quot;PLASTIK ATAKUJE - bardzo, ale to bardzo zły pop!</a></li>
+	
+		<li><span>23.04.2012</span>
+		&raquo;
+		<a href="/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro">Eden Express</a></li>
+	
+		<li><span>02.04.2012</span>
+		&raquo;
+		<a href="/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych">IX Konkurs Ukulele &quot;Przeboje lat 60-tych&quot;</a></li>
+	
+		<li><span>21.03.2012</span>
+		&raquo;
+		<a href="/2012-03-21-ukulele-w-dobrych-rekach-3-nasi-starzy">Nasi Starzy</a></li>
+	
+		<li><span>19.03.2012</span>
+		&raquo;
+		<a href="/2012-03-19-nagrywamy-ukulele-1-podstawy">Nagrywamy ukulele: Podstawy</a></li>
+	
+		<li><span>29.02.2012</span>
+		&raquo;
+		<a href="/2012-02-29-ukulele-w-dobrych-rekach-2-pierwsza-poznanska-niesymfoniczna-orkiestra-ukulele">Pierwsza Poznańska Niesymfoniczna Orkiestra Ukulele</a></li>
+	
+		<li><span>28.02.2012</span>
+		&raquo;
+		<a href="/2012-02-28-ii-urodziny-polish-ukulele">II Urodziny Polish Ukulele</a></li>
+	
+		<li><span>27.02.2012</span>
+		&raquo;
+		<a href="/2012-02-27-tydzien-na-polish-ukulele-2">Tydzień na Polish Ukulele #2</a></li>
+	
+		<li><span>23.02.2012</span>
+		&raquo;
+		<a href="/2012-02-23-ukulele-w-dobrych-rekach-1-maja-koman-ukulele">Maja Koman &amp; Ukulele</a></li>
+	
+		<li><span>23.02.2012</span>
+		&raquo;
+		<a href="/2012-02-23-jak-dbac-o-ukulele-zima">Jak dbać o ukulele zimą</a></li>
+	
+		<li><span>20.02.2012</span>
+		&raquo;
+		<a href="/2012-02-20-tydzien-na-polish-ukulele-1">Tydzień na Polish Ukulele #1</a></li>
+	
+		<li><span>18.02.2012</span>
+		&raquo;
+		<a href="/2012-03-03-teoria-muzyki-dla-leniwych-odcinek-trzeci-transpozycja">Teoria muzyki dla leniwych: Transpozycja</a></li>
+	
+		<li><span>18.02.2012</span>
+		&raquo;
+		<a href="/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale">Teoria muzyki dla leniwych: Tonacje i skale</a></li>
+	
+		<li><span>14.02.2012</span>
+		&raquo;
+		<a href="/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna">Teoria muzyki dla leniwych: Skala chromatyczna</a></li>
+	
+		<li><span>14.02.2012</span>
+		&raquo;
+		<a href="/2012-04-04-jakie-struny-wybrac-i-dlaczego-aquila-to-nie-zawsze-najlepszy-wybor">Jakie struny wybrać, i dlaczego nie zawsze Aquila?</a></li>
+	
+		<li><span>06.05.2011</span>
+		&raquo;
+		<a href="/2011-05-06-iii-rockowy-konkurs-ukulele">Rockowy Konkurs Ukulele</a></li>
+	
+		<li><span>03.04.2011</span>
+		&raquo;
+		<a href="/2011-04-03-z-archiwum-grupy-iii-konkurs-ukulele-muzyka-filmowa">Konkurs Ukulele &quot;Muzyka filmowa&quot;</a></li>
+	
+		<li><span>01.04.2011</span>
+		&raquo;
+		<a href="/2001-04-02-archiwum-pu-iii-morski-konkurs-ukulele">Morski Konkurs Ukulele</a></li>
+	
+</nav>
+  </div>
+</div>
+
+<div class="row">&nbsp;</div>  
+
+</div></div>
+</article>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p class="pull-left">&copy; Grupa Trzymająca Ukulele 2017 | Projekt &copy Grzesiek Stefanek 2014</p>
+            <p class="pull-right">
+                Ostatnia aktualizacja: czwartek, 19.01.2017
+            </p>
+
+        </footer>
+    </div><!-- /container -->
+
+    <!-- Scripts -->
+    <script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/docpad-livereload/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script >(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29337767-1');
+ga('send', 'pageview');</script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><script defer="defer"  src="/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
+</html>
