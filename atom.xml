@@ -3,7 +3,7 @@
 	<title>Poliż Ukulele!</title>
 	<link href="http://polish-ukulele.pl/atom.xml" rel="self"/>
 	<link href="http://polish-ukulele.pl"/>
-	<updated>2017-01-31T20:06:51.872Z</updated>
+	<updated>2017-01-31T20:34:50.134Z</updated>
 	<id>http://polish-ukulele.pl</id>
 	<author>
 		<name>Grzegorz Stefanek</name>
@@ -974,6 +974,14 @@ margin-right: 5px;
         
     
 
+        &lt;!-- Get the current document, from there, we will be able to get the next and previous --&gt;
+        
+    
+
+        &lt;!-- Get the current document, from there, we will be able to get the next and previous --&gt;
+        
+    
+
     &lt;/p&gt;
         &lt;p class=&quot;lead&quot;&gt;Przez siedem lat istnienia grupy Polish Ukulele uzbierało nam się trochę powtarzających się często pytań i problemów. Oto zebrane odpowiedzi na niektóre z nich.&lt;/p&gt;
 
@@ -998,8 +1006,6 @@ margin-right: 5px;
     &lt;h5 class=&quot;list-group-item-heading&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-shopping-cart&quot;&gt;&lt;/span&gt;   Kupno ukulele&lt;/h5&gt;
     &lt;ol&gt;
         
-        &lt;li&gt;&lt;a href=&quot;/FAQ/faq7-ukulele-na-poczatek&quot;&gt;&amp;raquo; Czy możecie wskazać jakieś modele dobre na początek?&lt;/a&gt;&lt;/li&gt;
-        
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq2-ile-wydac&quot;&gt;&amp;raquo; Ile wydać na pierwsze ukulele?&lt;/a&gt;&lt;/li&gt;
         
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq1-jaki-rozmiar&quot;&gt;&amp;raquo; Jaki rozmiar ukulele wybrać na początek?&lt;/a&gt;&lt;/li&gt;
@@ -1007,6 +1013,8 @@ margin-right: 5px;
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq30-zalety-wiekszego-ukulele&quot;&gt;&amp;raquo; Jakie są zalety większego ukulele?&lt;/a&gt;&lt;/li&gt;
         
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq28-gdzie-kupic&quot;&gt;&amp;raquo; Gdzie kupić ukulele?&lt;/a&gt;&lt;/li&gt;
+        
+        &lt;li&gt;&lt;a href=&quot;/FAQ/faq7-ukulele-na-poczatek&quot;&gt;&amp;raquo; Czy możecie wskazać jakieś modele dobre na początek?&lt;/a&gt;&lt;/li&gt;
         
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq6-czy-warto-lite-drewno&quot;&gt;&amp;raquo; Czy warto kupić ukulele z litego drewna?&lt;/a&gt;&lt;/li&gt;
         
@@ -1062,11 +1070,13 @@ margin-right: 5px;
     &lt;h5 class=&quot;list-group-item-heading&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-book&quot;&gt;&lt;/span&gt;   Śpiewniki, akordy i teoria&lt;/h5&gt;
     &lt;ol&gt;
         
-        &lt;li&gt;&lt;a href=&quot;/FAQ/faq27-akord-H&quot;&gt;&amp;raquo; Dlaczego w mojej tabeli akordów brakuje H?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/FAQ/faq32-jak-czytac-diagramy-akordow&quot;&gt;&amp;raquo; Jak czytać diagramy akordów w tabeli i w śpiewnikach?&lt;/a&gt;&lt;/li&gt;
         
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq22-gdzie-szukac-chwytow&quot;&gt;&amp;raquo; Jak znaleźć chwyty na ukulele do piosenki X?&lt;/a&gt;&lt;/li&gt;
         
-        &lt;li&gt;&lt;a href=&quot;/FAQ/faq23-konwencje-akordow&quot;&gt;&amp;raquo; Dlaczego w śpiewniku jest akord, którego nie ma w tabeli?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/FAQ/faq23-konwencje-akordow&quot;&gt;&amp;raquo; W śpiewniku jest akord, którego nie ma w tabeli?&lt;/a&gt;&lt;/li&gt;
+        
+        &lt;li&gt;&lt;a href=&quot;/FAQ/faq27-akord-H&quot;&gt;&amp;raquo; Dlaczego w mojej tabeli akordów brakuje H?&lt;/a&gt;&lt;/li&gt;
         
     &lt;/ol&gt;
   &lt;/li&gt;
@@ -1077,6 +1087,8 @@ margin-right: 5px;
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq21-jak-dbac&quot;&gt;&amp;raquo; Jak mam konserwować i dbać o swoje ukulele?&lt;/a&gt;&lt;/li&gt;
         
         &lt;li&gt;&lt;a href=&quot;/FAQ/faq26-malowanie&quot;&gt;&amp;raquo; Czy mogę pomalować / okleić swoje ukulele?&lt;/a&gt;&lt;/li&gt;
+        
+        &lt;li&gt;&lt;a href=&quot;/FAQ/faq31-gitarzysci&quot;&gt;&amp;raquo; Co wy macie z tą niechęcią do gitarzystów...?&lt;/a&gt;&lt;/li&gt;
         
     &lt;/ol&gt;
   &lt;/li&gt;
@@ -1535,10 +1547,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -1547,7 +1555,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -1555,15 +1571,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -1571,7 +1583,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -1583,11 +1599,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -1596,10 +1612,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -2068,11 +2080,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -2545,11 +2557,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -2565,15 +2577,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -2581,11 +2589,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3038,7 +3050,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3058,11 +3070,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3082,11 +3094,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3094,11 +3102,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3614,10 +3626,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -3626,7 +3634,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3634,15 +3650,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3650,7 +3662,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3662,11 +3678,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -3675,10 +3691,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -4166,11 +4178,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -4182,7 +4190,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -4190,11 +4206,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -4206,7 +4222,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -4218,19 +4234,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-01-05-XIX-konkurs-swiateczny&quot;&gt;XIX Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-01-05-XIX-konkurs-swiateczny&quot;&gt;XIX Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -4693,11 +4705,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -5162,11 +5174,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -5681,15 +5693,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -5701,19 +5709,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -5725,7 +5733,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -5737,19 +5753,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6240,11 +6252,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6256,11 +6268,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6706,7 +6718,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6722,11 +6734,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6746,11 +6758,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6758,11 +6766,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -6778,11 +6790,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -7236,11 +7248,11 @@ Zachęcam też do własnych poszukiwań, google  pomoże Wam znaleźć wszystkie
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7252,11 +7264,11 @@ Zachęcam też do własnych poszukiwań, google  pomoże Wam znaleźć wszystkie
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7697,7 +7709,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7713,7 +7725,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7721,7 +7733,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7737,11 +7749,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7749,11 +7757,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -7773,11 +7785,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -8710,11 +8722,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2011-05-06-iii-rockowy-konkurs-ukulele&quot;&gt;Rockowy Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -8726,7 +8734,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -8734,7 +8750,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -8742,15 +8758,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2011-05-06-iii-rockowy-konkurs-ukulele&quot;&gt;Rockowy Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -8759,10 +8775,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2014-02-10-xxiii-nieprawdopodobny-konkurs-ukulele&quot;&gt;XXIII Nieprawdopodobny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -9219,11 +9231,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -9239,11 +9251,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -9259,15 +9271,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -9275,11 +9283,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -9295,11 +9307,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -9770,11 +9782,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -9786,11 +9798,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -10699,11 +10711,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-08-22-sloneczne-rytmy&quot;&gt;Słoneczne rytmy na ukulele (recenzja)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-16-ukulele-history&quot;&gt;The 'Ukulele – A History (recenzja)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-10-16-ukulele-history&quot;&gt;The 'Ukulele – A History (recenzja)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-08-22-sloneczne-rytmy&quot;&gt;Słoneczne rytmy na ukulele (recenzja)&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -11220,11 +11232,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -11704,11 +11716,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12175,7 +12187,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12191,11 +12203,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12215,11 +12227,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12227,11 +12235,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12247,11 +12259,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -12697,7 +12709,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12713,11 +12725,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12737,11 +12749,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12749,11 +12757,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -12769,11 +12781,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -13226,11 +13238,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -14644,10 +14656,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -14656,15 +14664,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -14676,11 +14688,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -14692,7 +14708,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -14701,10 +14717,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15173,10 +15185,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -15185,11 +15193,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15197,7 +15205,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15205,11 +15213,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15225,15 +15237,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XIX-konkurs-swiateczny&quot;&gt;XIX Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15696,15 +15708,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15716,7 +15724,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2011-05-06-iii-rockowy-konkurs-ukulele&quot;&gt;Rockowy Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15728,11 +15748,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2011-05-06-iii-rockowy-konkurs-ukulele&quot;&gt;Rockowy Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15740,7 +15756,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15748,11 +15764,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -15761,10 +15777,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16227,11 +16239,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16239,11 +16251,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16706,15 +16718,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16726,7 +16734,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16738,23 +16758,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-03-31-XXV-konkurs&quot;&gt;XXV Konkurs Ukulele &amp;quot;Gramy Reggae&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16762,7 +16770,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2014-03-31-XXV-konkurs&quot;&gt;XXV Konkurs Ukulele &amp;quot;Gramy Reggae&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -16771,10 +16787,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17239,15 +17251,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17259,7 +17267,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17271,15 +17279,23 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17291,11 +17307,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17304,10 +17320,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17760,7 +17772,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17776,15 +17788,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17796,19 +17804,23 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -17832,11 +17844,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -18283,11 +18295,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18303,11 +18315,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18319,7 +18335,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18327,15 +18343,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18359,11 +18371,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -18829,15 +18841,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18849,6 +18857,14 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -18857,7 +18873,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18865,11 +18881,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18881,11 +18897,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -18894,10 +18910,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19349,15 +19361,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19366,6 +19374,10 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-02-18-xv-konkurs-ukulele-piosenka-o-milosci&quot;&gt;XV Konkurs Ukulele &amp;quot;Piosenka o miłości&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19381,15 +19393,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19401,11 +19417,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19414,10 +19430,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19896,15 +19908,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19913,6 +19921,10 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-02-18-xv-konkurs-ukulele-piosenka-o-milosci&quot;&gt;XV Konkurs Ukulele &amp;quot;Piosenka o miłości&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19928,15 +19940,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19948,11 +19964,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -19961,10 +19977,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -20427,7 +20439,7 @@ Znów mamy nagrania grupowiczów, zamiast cudzych. Jeden Marcin gra Lennona, a d
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -20443,19 +20455,19 @@ Znów mamy nagrania grupowiczów, zamiast cudzych. Jeden Marcin gra Lennona, a d
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -20467,19 +20479,19 @@ Znów mamy nagrania grupowiczów, zamiast cudzych. Jeden Marcin gra Lennona, a d
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -20499,11 +20511,11 @@ Znów mamy nagrania grupowiczów, zamiast cudzych. Jeden Marcin gra Lennona, a d
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -21002,7 +21014,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21018,6 +21030,10 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -21030,10 +21046,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-09-17-tydzien-na-polish-ukulele-4&quot;&gt;Tydzień na Polish Ukulele #4&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -21042,7 +21054,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21050,11 +21062,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21074,11 +21086,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -21532,7 +21544,7 @@ Sporo ciekawych linków się pojawiło, ale pierwszeństwo mają nagrania grupow
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21548,11 +21560,7 @@ Sporo ciekawych linków się pojawiło, ale pierwszeństwo mają nagrania grupow
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21560,7 +21568,11 @@ Sporo ciekawych linków się pojawiło, ale pierwszeństwo mają nagrania grupow
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21572,19 +21584,19 @@ Sporo ciekawych linków się pojawiło, ale pierwszeństwo mają nagrania grupow
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -21604,11 +21616,11 @@ Sporo ciekawych linków się pojawiło, ale pierwszeństwo mają nagrania grupow
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -22058,11 +22070,11 @@ Nie zawiedli nas w tym tygodniu grupowicze w dzieleniu się perełkami z Youtube
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -22078,10 +22090,6 @@ Nie zawiedli nas w tym tygodniu grupowicze w dzieleniu się perełkami z Youtube
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -22094,15 +22102,15 @@ Nie zawiedli nas w tym tygodniu grupowicze w dzieleniu się perełkami z Youtube
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-17-tydzien-na-polish-ukulele-4&quot;&gt;Tydzień na Polish Ukulele #4&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -22110,11 +22118,15 @@ Nie zawiedli nas w tym tygodniu grupowicze w dzieleniu się perełkami z Youtube
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -22134,11 +22146,11 @@ Nie zawiedli nas w tym tygodniu grupowicze w dzieleniu się perełkami z Youtube
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -22614,11 +22626,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -23105,11 +23117,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -23559,11 +23571,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -23583,7 +23595,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -23591,7 +23603,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -23603,19 +23615,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -23635,11 +23647,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -24077,7 +24089,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24101,7 +24113,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24109,7 +24121,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24117,11 +24129,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24129,11 +24137,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24153,11 +24165,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -24599,11 +24611,11 @@ Znana wszystkim ukistka wystawiła jeden ze swoich instrumentów na akucję char
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24623,7 +24635,7 @@ Znana wszystkim ukistka wystawiła jeden ze swoich instrumentów na akucję char
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24631,7 +24643,7 @@ Znana wszystkim ukistka wystawiła jeden ze swoich instrumentów na akucję char
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24643,19 +24655,19 @@ Znana wszystkim ukistka wystawiła jeden ze swoich instrumentów na akucję char
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -24675,11 +24687,11 @@ Znana wszystkim ukistka wystawiła jeden ze swoich instrumentów na akucję char
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -25118,11 +25130,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -25569,15 +25581,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -25586,6 +25594,10 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-02-18-xv-konkurs-ukulele-piosenka-o-milosci&quot;&gt;XV Konkurs Ukulele &amp;quot;Piosenka o miłości&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -25601,7 +25613,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -25609,7 +25621,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -25621,11 +25637,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -25634,10 +25650,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26101,15 +26113,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26121,11 +26129,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26133,7 +26145,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26145,6 +26157,10 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2014-03-31-XXV-konkurs&quot;&gt;XXV Konkurs Ukulele &amp;quot;Gramy Reggae&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -26153,11 +26169,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26166,10 +26182,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26629,11 +26641,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26645,11 +26653,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26665,7 +26677,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26677,11 +26693,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -26690,10 +26706,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -27199,11 +27211,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -27211,11 +27223,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -27699,11 +27711,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28176,11 +28188,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28192,7 +28204,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28200,7 +28212,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28208,7 +28220,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28220,6 +28232,10 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2014-03-31-XXV-konkurs&quot;&gt;XXV Konkurs Ukulele &amp;quot;Gramy Reggae&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -28228,11 +28244,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28241,10 +28257,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -28730,11 +28742,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29220,7 +29232,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29228,11 +29240,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29244,7 +29256,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29252,7 +29264,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29260,7 +29272,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-11-12-xx-radosny-konkurs-ukulele&quot;&gt;XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29272,11 +29288,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -29285,10 +29301,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -30229,11 +30241,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -30696,11 +30708,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31186,19 +31198,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-02-18-xv-konkurs-ukulele-piosenka-o-milosci&quot;&gt;XV Konkurs Ukulele &amp;quot;Piosenka o miłości&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31210,7 +31222,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31218,7 +31230,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31230,6 +31242,10 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2014-03-31-XXV-konkurs&quot;&gt;XXV Konkurs Ukulele &amp;quot;Gramy Reggae&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -31238,11 +31254,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31251,10 +31267,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31700,11 +31712,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31744,19 +31756,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -31776,11 +31788,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -32708,7 +32720,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -32748,11 +32760,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -32760,11 +32768,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -32784,11 +32796,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -33221,11 +33233,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -34665,11 +34677,11 @@ X sus 4
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -35113,55 +35125,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-02-27-tydzien-na-polish-ukulele-2&quot;&gt;Tydzień na Polish Ukulele #2&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-06-14-x-konkurs-polish-ukulele-plastik-atakuje-bardzo-ale-to-bardzo-zly-pop&quot;&gt;X Konkurs Polish Ukulele &amp;quot;PLASTIK ATAKUJE - bardzo, ale to bardzo zły pop!&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-09-17-tydzien-na-polish-ukulele-4&quot;&gt;Tydzień na Polish Ukulele #4&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -35169,15 +35133,63 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-02-27-tydzien-na-polish-ukulele-2&quot;&gt;Tydzień na Polish Ukulele #2&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-06-14-x-konkurs-polish-ukulele-plastik-atakuje-bardzo-ale-to-bardzo-zly-pop&quot;&gt;X Konkurs Polish Ukulele &amp;quot;PLASTIK ATAKUJE - bardzo, ale to bardzo zły pop!&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-02-20-tydzien-na-polish-ukulele-1&quot;&gt;Tydzień na Polish Ukulele #1&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-09-17-tydzien-na-polish-ukulele-4&quot;&gt;Tydzień na Polish Ukulele #4&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -35197,11 +35209,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -36115,11 +36127,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -36131,14 +36143,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -36147,11 +36151,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-25-iv-spotkanie-frakcji-warszawskiej&quot;&gt;IV Spotkanie Frakcji Warszawskiej&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2004-10-25-przyjazne&quot;&gt;Rabat w przyjazne-ukulele.pl&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-10-25-iv-spotkanie-frakcji-warszawskiej&quot;&gt;IV Spotkanie Frakcji Warszawskiej&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -36159,19 +36167,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-17-tydzien-na-polish-ukulele-4&quot;&gt;Tydzień na Polish Ukulele #4&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-24-youke-tube-1&quot;&gt;Youke Tube #1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-23-tydzien-na-polish-ukulele-5&quot;&gt;Tydzień na Polish Ukulele #5&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -36179,11 +36187,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -36203,11 +36215,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -36675,11 +36687,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-06-14-x-konkurs-polish-ukulele-plastik-atakuje-bardzo-ale-to-bardzo-zly-pop&quot;&gt;X Konkurs Polish Ukulele &amp;quot;PLASTIK ATAKUJE - bardzo, ale to bardzo zły pop!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-06-14-x-konkurs-polish-ukulele-plastik-atakuje-bardzo-ale-to-bardzo-zly-pop&quot;&gt;X Konkurs Polish Ukulele &amp;quot;PLASTIK ATAKUJE - bardzo, ale to bardzo zły pop!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37155,11 +37167,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37167,7 +37175,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37175,15 +37191,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2011-05-06-iii-rockowy-konkurs-ukulele&quot;&gt;Rockowy Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37191,7 +37203,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37203,11 +37219,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37216,10 +37232,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -37693,11 +37705,11 @@ Skład zespołu:&lt;/p&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -38641,11 +38653,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -39096,11 +39108,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-01-ukulele-na-woodstocku&quot;&gt;Ukulele na Woodstocku&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-05-swieto-herbaty&quot;&gt;Święto Herbaty i Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -39569,11 +39581,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -39585,7 +39597,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -39593,7 +39605,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -39613,19 +39625,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -39645,11 +39657,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -40107,11 +40119,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-04-23-ukulele-w-dobrych-rekach-4-ukulele-zagra-na-euro&quot;&gt;Eden Express&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-10-19-ukulele-w-dobrych-rekach-5-gaba-kulka&quot;&gt;Gaba Kulka&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -40578,19 +40590,19 @@ Kupujemy jajko z niespodzianką oraz nieduży kawałek zielonej gąbki do kompoz
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-03-06-sprzet-kapodaster-czym-to-sie-je&quot;&gt;Kapodaster - z czym to się je&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -40602,11 +40614,11 @@ Kupujemy jajko z niespodzianką oraz nieduży kawałek zielonej gąbki do kompoz
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-03-06-sprzet-kapodaster-czym-to-sie-je&quot;&gt;Kapodaster - z czym to się je&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -41060,11 +41072,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-09-tydzien-na-polish-ukulele-7&quot;&gt;Tydzień na Polish Ukulele #7&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -41076,7 +41088,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -41084,7 +41096,7 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-11-09-tydzien-na-polish-ukulele-3&quot;&gt;Tydzień na Polish Ukulele #3&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-12-21-polish-ukulele-dla-dzieciakow-ze-swietlicy&quot;&gt;Polish Ukulele dla dzieciaków ze świetlicy&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -41104,19 +41116,19 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-10-01-tydzien-na-polish-ukulele-6&quot;&gt;Tydzień na Polish Ukulele #6&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-10-16-tydzien-na-polish-ukulele-8&quot;&gt;Tydzień na Polish Ukulele #8&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-10-10-youketube-3&quot;&gt;YoukeTube #3&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2013-12-10-tydzien-z-hakiem-na-polish-ukulele-9&quot;&gt;Tydzień (z hakiem) na Polish Ukulele #9&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-12-11-taaaaaaakie-ukulele-wygralismy&quot;&gt;Taaaaaaakie ukulele wygraliśmy!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -41136,11 +41148,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2015-05-20-Co-slychac-EP&quot;&gt;Co słychać? Nową płytę Co Słychać!&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2015-06-30-Nauka-gry&quot;&gt;Pierwsze kroki na ukulele&lt;/a&gt;&lt;/li&gt;
 				
 			&lt;/nav&gt;
 		&lt;/div&gt;
@@ -42723,11 +42735,11 @@ Technicznie rzecz biorąc, zapisując w śpiewniku sekwencję akordów moglibyś
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-14-teoria-muzyki-dla-leniwych-odcinek-pierwszy-skala-chromatyczna&quot;&gt;Teoria muzyki dla leniwych: Skala chromatyczna&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -43392,11 +43404,11 @@ Tabelka dźwięków &amp;quot;po polsku&amp;quot; wyglądałaby więc tak:
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-23-jak-dbac-o-ukulele-zima&quot;&gt;Jak dbać o ukulele zimą&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-02-18-teoria-muzyki-dla-leniwych-odcinek-drugi-tonacje-i-skale&quot;&gt;Teoria muzyki dla leniwych: Tonacje i skale&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2012-02-23-jak-dbac-o-ukulele-zima&quot;&gt;Jak dbać o ukulele zimą&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -43932,11 +43944,11 @@ Nieco gorszy balans utrudnia akcentowanie melodii na strunie C, ale przy odrobin
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-05-08-dwuglos-o-drewnie-czesc-pierwsza&quot;&gt;Z jakiego drewna powstają najlepsze ukulele?&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-03-06-rejestrator-dla-ukisty-test-zoom-h1&quot;&gt;Rejestrator dla ukisty - test Zoom H1&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -43948,11 +43960,11 @@ Nieco gorszy balans utrudnia akcentowanie melodii na strunie C, ale przy odrobin
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-07-22-korala-explore&quot;&gt;Test: Korala Explore (PUC-20)&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-07-16-lanikai-lu-21&quot;&gt;Test: Lanikai LU-21&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -44409,15 +44421,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -44425,7 +44433,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -44433,15 +44449,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-04-02-ix-konkurs-polish-ukulele-przeboje-lat-60-tych&quot;&gt;IX Konkurs Ukulele &amp;quot;Przeboje lat 60-tych&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-09-10-zapraszamy-na-xx-radosny-konkurs-ukulele&quot;&gt;Zapraszamy na XX Radosny Konkurs Ukulele&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -44453,6 +44465,10 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2014-03-31-XXV-konkurs&quot;&gt;XXV Konkurs Ukulele &amp;quot;Gramy Reggae&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -44461,11 +44477,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -44474,10 +44490,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -45385,10 +45397,6 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2012-12-27-iii-konkurs-ukulele-na-swieta&quot;&gt;III Konkurs Ukulele na Święta&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
@@ -45397,7 +45405,15 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
+				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
 				&lt;a href=&quot;/2013-09-02-xix-konkurs-ukulele-piosenka-na-wakacje&quot;&gt;XIX Konkurs Ukulele &amp;quot;Piosenka na wakacje&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2013-04-22-xvi-konkurs-ukulele-the-beatles-i-okolice&quot;&gt;XVI Konkurs Ukulele &amp;quot;The Beatles i okolice&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -45405,15 +45421,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-07-01-xviii-konkurs-ukulele-swinging-ukes-piosenki-z-pierwszej-polowy-xx-wieku&quot;&gt;XVIII Konkurs Ukulele &amp;quot;Swinging Ukes - piosenki z pierwszej połowy XX wieku&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
 				&lt;a href=&quot;/2013-11-18-krododyl-challenge-czyli-konkurs-instant&quot;&gt;Krododyl Challenge, czyli konkurs instant&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -45421,7 +45433,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2013-12-09-xxi-konkurs-ukulele-dla-ponurakow&quot;&gt;XXI Konkurs &amp;quot;Ukulele dla ponuraków :(&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2013-12-30-xxii-konkurs-ukulele-na-swieta&quot;&gt;XXII Konkurs &amp;quot;Ukulele na Święta&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				
+					&lt;li&gt;
+					&amp;raquo;
+				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -45433,11 +45449,11 @@ margin-right: 5px;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-05-04-XXVI-konkurs-wzniosle-tresci-obcych-piesni&quot;&gt;XXVI Konkurs Ukulele &amp;quot;Wzniosłe treści obcych pieśni&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
-				&lt;a href=&quot;/2014-06-22-XXVII-konkurs-hawaje&quot;&gt;XXVII Konkurs Ukulele &amp;quot;Stare i nowe melodie hawajskie&amp;quot;&lt;/a&gt;&lt;/li&gt;
+				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
@@ -45446,10 +45462,6 @@ margin-right: 5px;
 					&lt;li&gt;
 					&amp;raquo;
 				&lt;a href=&quot;/2015-01-05-XXX-konkurs-najlepszy-rocznik&quot;&gt;XXX Konkurs Ukulele &amp;quot;Najlepszy rocznik&amp;quot;&lt;/a&gt;&lt;/li&gt;
-				
-					&lt;li&gt;
-					&amp;raquo;
-				&lt;a href=&quot;/2014-10-15-XVIII-konkurs-trzy-akordy&quot;&gt;XXVIII Konkurs Ukulele &amp;quot;Trzy akordki i darcie mordki&amp;quot;&lt;/a&gt;&lt;/li&gt;
 				
 					&lt;li&gt;
 					&amp;raquo;
